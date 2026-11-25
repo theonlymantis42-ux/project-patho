@@ -31,13 +31,13 @@ A separate center-coded evaluation and a second 2,000-image metrics file are als
 
 | File | What it is |
 | --- | --- |
-| \`Project_Patho_Process_and_Review.ipynb\` | Full-grid whole-slide inference and browser review notebook |
-| \`Project_Patho_Paper2_Colab_Processing.ipynb\` | Separate bounded Colab workflow; default public slide is a technical smoke test |
-| \`my_cancer_model.h5\` | Older checkpoint loaded by the whole-slide notebooks |
-| \`model.keras\` | Separate checkpoint associated with the November 11 training/evaluation records |
-| \`Paper1_Manuscript_BACKUP_before_training-history_update.md\` | Archived exploratory manuscript; read with the limitations in the current docs |
-| \`Paper1_Protocol_DRAFT.md\` | Earlier protocol draft, not a locked protocol |
-| \`results.json\`, \`summary.json\`, and CSV files | Stored evaluation artifacts; see [Results](docs/RESULTS.md) before interpreting them |
+| `Project_Patho_Process_and_Review.ipynb` | Full-grid whole-slide inference and browser review notebook |
+| `Project_Patho_Paper2_Colab_Processing.ipynb` | Separate bounded Colab workflow; default public slide is a technical smoke test |
+| `my_cancer_model.h5` | Older checkpoint loaded by the whole-slide notebooks |
+| `model.keras` | Separate checkpoint associated with the November 11 training/evaluation records |
+| `Paper1_Manuscript_BACKUP_before_training-history_update.md` | Archived exploratory manuscript; read with the limitations in the current docs |
+| `Paper1_Protocol_DRAFT.md` | Earlier protocol draft, not a locked protocol |
+| `results.json`, `summary.json`, and CSV files | Stored evaluation artifacts; see [Results](docs/RESULTS.md) before interpreting them |
 
 ## Important limitations
 
