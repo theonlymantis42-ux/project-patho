@@ -1,7 +1,24 @@
-# Paper 1 completed analysis chunk
-Start with Paper1_Working_Manuscript.html (standalone readable report) or Paper1_Working_Manuscript.md (editable text).
-figures/ contains six figures, each as PNG and PDF. CSV files hold exact metric values, clustered-bootstrap replicates, cohort summaries, ranked errors, reliability bins, and leave-one-patient-out results.
-analysis_manifest.json records software versions, model and prediction hashes, and study limitations.
-This package analyzes a single existing model on a 2000-patch exploratory sample. It is not the original proposed five-seed clean-training study. No new training or PCam downloads were performed for this analysis. Prior download was stopped at the researcher's request.
-Known pilot labels are not used in these estimates. Prior image-exposure completeness and historical training/test exposure remain unresolved. Mentors should review the study design and inference claims before submission.
-Completed on 24 October 2026; existing model and 26 archived original pilot files verified unchanged.
+# Project Patho — start here
+
+The repository is now organized around the two main parts of the project.
+
+## Read the research overview
+
+1. [README](README.md) — project summary and repository map.
+2. [Project overview](docs/PROJECT_OVERVIEW.md) — the research question and scope.
+3. [Architecture](docs/ARCHITECTURE.md) — patch classifier and whole-slide workflow diagrams.
+4. [Data and model record](docs/DATA_AND_MODEL.md) — dataset provenance and checkpoint histories.
+5. [Results](docs/RESULTS.md) — the separate experiments and their limits.
+6. [Reproduction guide](docs/REPRODUCING.md) — Colab setup and missing dependencies.
+7. [Research status](docs/RESEARCH_STATUS.md) — unresolved issues and next steps.
+
+## Browse the work
+
+- **[Model Generalization Testing](model-generalization-testing/):** model-generalization-testing/
+  - Start with its README, then open Cases/ for false-positive and false-negative records.
+  - Figures, metrics, manuscripts, model provenance, and scripts are grouped in their own subfolders.
+- **[Whole-Slide Processing Model Testing](whole-slide-processing-model-testing/):** whole-slide-processing-model-testing/
+  - Start with its README, then open notebooks/ for the slide-processing workflows.
+- **[Project notes](project-notes/):** project-notes/ contains the retained run-log document.
+
+The older Paper 1 analysis is exploratory, not clinical validation. The November 11 model run is kept separate because its saved manifest and run record disagree about input scaling. The notebooks load models from private Drive locations; they do not train models by themselves.
