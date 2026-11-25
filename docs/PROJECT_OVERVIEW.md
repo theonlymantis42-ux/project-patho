@@ -16,7 +16,7 @@ That question is narrower than asking whether AI can diagnose cancer. The curren
 
 **Whole-slide review.** The Colab notebooks load an existing H5 model, read a whole-slide image using OpenSlide, sample image context, run patch inference, and map scores back to slide coordinates. A browser report displays the score map and optional Grad-CAM attribution. This is an inference and visualization workflow; it does not train a model or generate a validated slide diagnosis.
 
-See [Architecture](ARCHITECTURE.md) for the two workflows, [Data and model record](DATA_AND_MODEL.md) for checkpoint and dataset provenance, and [Results](RESULTS.md) for the separate analyses currently represented in the repository.
+See [Architecture](ARCHITECTURE.md) for the two workflows, [Data and model record](DATA_AND_MODEL.md) for checkpoint and dataset provenance, and [Results](RESULTS.md) for the separate analyses. Project files are grouped under [Model Generalization Testing](../model-generalization-testing/) and [Whole-Slide Processing Model Testing](../whole-slide-processing-model-testing/).
 
 ## Current state
 

@@ -4,7 +4,7 @@ The notebooks run in Google Colab and load a saved model. They are inference and
 
 ## Whole-slide review notebook
 
-Use `Project_Patho_Process_and_Review.ipynb` for the full-grid review workflow.
+Use `whole-slide-processing-model-testing/notebooks/Project_Patho_Process_and_Review.ipynb` for the full-grid review workflow.
 
 1. Open the notebook in Google Colab.
 2. Make sure you have access to the private Google Drive folder used by the notebook.
@@ -17,7 +17,7 @@ The notebook checks slide MPP metadata and uses a nominal PCam target scale. Ver
 
 ## Bounded Colab notebook
 
-`Project_Patho_Paper2_Colab_Processing.ipynb` is a separate bounded workflow. Its default public CMU-1-Small-Region skin slide is a technical smoke test of file processing and display. It is not a cancer-detection evaluation. Its default candidate cap is 2,000, and it writes a timestamped run folder with configuration, manifest, CSV predictions, and a dashboard-result JSON file.
+`whole-slide-processing-model-testing/notebooks/Project_Patho_Paper2_Colab_Processing.ipynb` is a separate bounded workflow. Its default public CMU-1-Small-Region skin slide is a technical smoke test of file processing and display. It is not a cancer-detection evaluation. Its default candidate cap is 2,000, and it writes a timestamped run folder with configuration, manifest, CSV predictions, and a dashboard-result JSON file.
 
 Do not use the public sample to estimate accuracy. For a research run, use only data you are authorized to process, confirm the pixel scale, and record the exact input and checkpoint hashes.
 

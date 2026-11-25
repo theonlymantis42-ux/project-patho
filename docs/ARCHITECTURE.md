@@ -4,7 +4,7 @@ Project Patho has two related workflows. One evaluates patch-level classifiers. 
 
 ## 1. Patch-classification and evaluation
 
-The older checkpoint, `my_cancer_model.h5`, is described in the recovered source audit as a MobileNetV2-based patch classifier. The diagram shows the architecture recorded there; it is not a claim that every checkpoint in the repository has the same architecture.
+The older checkpoint, `whole-slide-processing-model-testing/models/my_cancer_model.h5`, is described in the recovered source audit as a MobileNetV2-based patch classifier. The diagram shows the architecture recorded there; it is not a claim that every checkpoint in the repository has the same architecture.
 
 ```mermaid
 flowchart LR
@@ -19,7 +19,7 @@ flowchart LR
 
 The architecture above is reconstructed from `source_audit.json`. That audit also says the retained notebook contains a commented training call and that the historical training sequence could not be recovered completely. See [Data and model record](DATA_AND_MODEL.md).
 
-A separate November 11, 2026 training record is associated with `model.keras` and a different manifest. Its manifest and `run.json` disagree about input scaling. Do not assume that this checkpoint is identical to the older H5 model or that its evaluation is fully reproducible until that disagreement is resolved.
+A separate November 11, 2026 training record is associated with `model-generalization-testing/runs/2026-11-11/model.keras` and a different manifest. Its manifest and `run.json` disagree about input scaling. Do not assume that this checkpoint is identical to the older H5 model or that its evaluation is fully reproducible until that disagreement is resolved.
 
 ## 2. Whole-slide review
 

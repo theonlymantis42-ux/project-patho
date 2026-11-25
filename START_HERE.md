@@ -1,19 +1,24 @@
 # Project Patho — start here
 
-This repository contains two related but separate kinds of work: patch-classification experiments and whole-slide inference/review tools.
+The repository is now organized around the two main parts of the project.
 
-Read the current documentation in this order:
+## Read the research overview
 
-1. [README](README.md) — a short description of the project and its current limits.
-2. [Project overview](docs/PROJECT_OVERVIEW.md) — the research question and the two parts of the project.
-3. [Architecture](docs/ARCHITECTURE.md) — how the patch classifier and whole-slide workflow fit together.
-4. [Data and model record](docs/DATA_AND_MODEL.md) — datasets, checkpoints, and provenance.
-5. [Results](docs/RESULTS.md) — the metrics in the repository and what can and cannot be concluded.
-6. [Reproduction guide](docs/REPRODUCING.md) — notebook setup and missing dependencies.
-7. [Research status](docs/RESEARCH_STATUS.md) — the issues that need to be resolved next.
+1. [README](README.md) — project summary and repository map.
+2. [Project overview](docs/PROJECT_OVERVIEW.md) — the research question and scope.
+3. [Architecture](docs/ARCHITECTURE.md) — patch classifier and whole-slide workflow diagrams.
+4. [Data and model record](docs/DATA_AND_MODEL.md) — dataset provenance and checkpoint histories.
+5. [Results](docs/RESULTS.md) — the separate experiments and their limits.
+6. [Reproduction guide](docs/REPRODUCING.md) — Colab setup and missing dependencies.
+7. [Research status](docs/RESEARCH_STATUS.md) — unresolved issues and next steps.
 
-The older Paper 1 manuscript is an archived exploratory analysis, not a clinical validation study. The protocol draft is explicitly not locked. The root result files include separate runs; do not combine their metrics.
+## Browse the work
 
-The whole-slide notebooks load an existing H5 checkpoint from private Google Drive. They do not train the model. Use only de-identified slides you are authorized to process.
+- **Model Generalization Testing:** model-generalization-testing/
+  - Start with its README, then open Cases/ for false-positive and false-negative records.
+  - Figures, metrics, manuscripts, model provenance, and scripts are grouped in their own subfolders.
+- **Whole-Slide Processing Model Testing:** whole-slide-processing-model-testing/
+  - Start with its README, then open notebooks/ for the slide-processing workflows.
+- **Project notes:** project-notes/ contains the retained run-log document.
 
-The project currently has unresolved model-provenance and preprocessing issues. They are called out in the documentation because they affect how the results should be interpreted.
+The older Paper 1 analysis is exploratory, not clinical validation. The November 11 model run is kept separate because its saved manifest and run record disagree about input scaling. The notebooks load models from private Drive locations; they do not train models by themselves.

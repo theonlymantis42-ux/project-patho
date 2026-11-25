@@ -34,7 +34,7 @@ The 2,000 selected patches were new relative to the 4,000 documented pilot image
 
 ## 2. Separate CAMELYON17 Run 2 metrics file
 
-The repository also contains `CAMELYON17_External_Test_Run_2_metrics.csv`, which reports a second 2,000-image result:
+The repository also contains `model-generalization-testing/results/tables/CAMELYON17_External_Test_Run_2_metrics.csv`, which reports a second 2,000-image result:
 
 | Metric | Value in CSV |
 | --- | ---: |
@@ -51,7 +51,7 @@ The CSV reports 973 true positives, 640 true negatives, 360 false positives, and
 
 ## 3. Separate center-coded WILDS result
 
-The separate `results.json` artifact records an evaluation at threshold 0.1767316 across 241,062 patches, 30 slides, and 24 case groups. It reports centers 0, 1, and 4:
+The separate `model-generalization-testing/runs/2026-11-11/results.json` artifact records an evaluation at threshold 0.1767316 across 241,062 patches, 30 slides, and 24 case groups. It reports centers 0, 1, and 4:
 
 | Center code | Patches | Slides | Case groups | ROC-AUC | Sensitivity | Specificity |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -66,7 +66,7 @@ This analysis is not ready to be presented as a fully reproducible final evaluat
 
 ## 4. PCam test summary stored separately
 
-The root `summary.json` reports 32,734 PCam test rows, with pooled ROC-AUC 0.8860, sensitivity 0.8983, and specificity 0.6454. It is a separate stored summary, not a substitute for a verified clean benchmark. Its linkage to the checkpoint and preprocessing configuration must be checked alongside the scaling mismatch described above.
+The root `model-generalization-testing/runs/2026-11-11/summary.json` reports 32,734 PCam test rows, with pooled ROC-AUC 0.8860, sensitivity 0.8983, and specificity 0.6454. It is a separate stored summary, not a substitute for a verified clean benchmark. Its linkage to the checkpoint and preprocessing configuration must be checked alongside the scaling mismatch described above.
 
 ## Bottom line
 

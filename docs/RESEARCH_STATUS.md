@@ -18,7 +18,7 @@ These are software and analysis capabilities. They do not, by themselves, establ
 
 The archived Paper 1 sample contains 2,000 CAMELYON17-WILDS patches from 9 patients and 10 slides. It reports ROC-AUC 0.953 and sensitivity 0.958 at a 0.50 threshold, but specificity is 0.668. The sample contains 337 false positives and 41 false negatives. More than half of the errors have predicted-class confidence of at least 0.90. Slide-level estimates vary substantially.
 
-A separate 241,062-patch, center-coded result is stored in `results.json`. It reports different metrics at a different threshold and uses a different model/run record. It must not be merged with the Paper 1 sample.
+A separate 241,062-patch, center-coded result is stored in `model-generalization-testing/runs/2026-11-11/results.json`. It reports different metrics at a different threshold and uses a different model/run record. It must not be merged with the Paper 1 sample.
 
 See [Results](RESULTS.md) for the full numbers and interpretation limits.
 
@@ -26,13 +26,13 @@ See [Results](RESULTS.md) for the full numbers and interpretation limits.
 
 ### 1. Two checkpoint histories
 
-The whole-slide notebooks load `my_cancer_model.h5`. The recovered source audit describes a frozen ImageNet MobileNetV2 backbone with a small classification head. The training-history disclosure says that approximately 30,000 PCam test-designated images were passed to `model.fit` during development. The exact unique-image and epoch history was not reconstructed. Results from this checkpoint cannot be described as an independent PCam test.
+The whole-slide notebooks load `whole-slide-processing-model-testing/models/my_cancer_model.h5`. The recovered source audit describes a frozen ImageNet MobileNetV2 backbone with a small classification head. The training-history disclosure says that approximately 30,000 PCam test-designated images were passed to `model.fit` during development. The exact unique-image and epoch history was not reconstructed. Results from this checkpoint cannot be described as an independent PCam test.
 
-A separate `model.keras` and November 11 manifest are also present. Do not assume it is the same architecture or training history as the H5 checkpoint.
+A separate `model-generalization-testing/runs/2026-11-11/model.keras` and November 11 manifest are also present. Do not assume it is the same architecture or training history as the H5 checkpoint.
 
 ### 2. Conflicting input-scaling records
 
-The November 11 manifest records `zero_to_one` input scaling. The associated `run.json` records `minus_one_to_one`. Both refer to the same recorded trainer hash. The source trainer, checkpoint, and scoring code must be inspected to determine which preprocessing was actually used. Until then, the corresponding center-coded metrics are recorded results, not a fully reproducible final evaluation.
+The November 11 manifest records `zero_to_one` input scaling. The associated `model-generalization-testing/runs/2026-11-11/run.json` records `minus_one_to_one`. Both refer to the same recorded trainer hash. The source trainer, checkpoint, and scoring code must be inspected to determine which preprocessing was actually used. Until then, the corresponding center-coded metrics are recorded results, not a fully reproducible final evaluation.
 
 ### 3. Pilot archive integrity
 

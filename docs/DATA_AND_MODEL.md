@@ -27,7 +27,7 @@ The label source is the pinned dataset mirror, not new pathologist adjudication.
 
 ## Checkpoints and architecture
 
-### `my_cancer_model.h5` — older checkpoint
+### `whole-slide-processing-model-testing/models/my_cancer_model.h5` — older checkpoint
 
 The recovered source audit describes this model as:
 
@@ -42,7 +42,7 @@ This architecture is attributed to the recovered source, not independently recon
 
 The training-history disclosure records that approximately 30,000 images designated for the PCam test split were passed to `model.fit` during development. The counts are investigator-reported approximations, and a complete unique-image/epoch history was not recovered. For that reason, PCam test results for this older checkpoint must not be described as an independent internal benchmark.
 
-### `model.keras` — separate November 11 run
+### `model-generalization-testing/runs/2026-11-11/model.keras` — separate November 11 run
 
 A second checkpoint appears alongside `zero_to_one_20261111.json`, `run.json`, and `results.json`. The manifest records ImageNet initialization, five epochs, batch size 64, learning rate 0.001, seed 20261111, and a target sensitivity of 0.95.
 
