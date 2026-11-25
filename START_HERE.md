@@ -1,7 +1,19 @@
-# Paper 1 completed analysis chunk
-Start with Paper1_Working_Manuscript.html (standalone readable report) or Paper1_Working_Manuscript.md (editable text).
-figures/ contains six figures, each as PNG and PDF. CSV files hold exact metric values, clustered-bootstrap replicates, cohort summaries, ranked errors, reliability bins, and leave-one-patient-out results.
-analysis_manifest.json records software versions, model and prediction hashes, and study limitations.
-This package analyzes a single existing model on a 2000-patch exploratory sample. It is not the original proposed five-seed clean-training study. No new training or PCam downloads were performed for this analysis. Prior download was stopped at the researcher's request.
-Known pilot labels are not used in these estimates. Prior image-exposure completeness and historical training/test exposure remain unresolved. Mentors should review the study design and inference claims before submission.
-Completed on 24 October 2026; existing model and 26 archived original pilot files verified unchanged.
+# Project Patho — start here
+
+This repository contains two related but separate kinds of work: patch-classification experiments and whole-slide inference/review tools.
+
+Read the current documentation in this order:
+
+1. [README](README.md) — a short description of the project and its current limits.
+2. [Project overview](docs/PROJECT_OVERVIEW.md) — the research question and the two parts of the project.
+3. [Architecture](docs/ARCHITECTURE.md) — how the patch classifier and whole-slide workflow fit together.
+4. [Data and model record](docs/DATA_AND_MODEL.md) — datasets, checkpoints, and provenance.
+5. [Results](docs/RESULTS.md) — the metrics in the repository and what can and cannot be concluded.
+6. [Reproduction guide](docs/REPRODUCING.md) — notebook setup and missing dependencies.
+7. [Research status](docs/RESEARCH_STATUS.md) — the issues that need to be resolved next.
+
+The older Paper 1 manuscript is an archived exploratory analysis, not a clinical validation study. The protocol draft is explicitly not locked. The root result files include separate runs; do not combine their metrics.
+
+The whole-slide notebooks load an existing H5 checkpoint from private Google Drive. They do not train the model. Use only de-identified slides you are authorized to process.
+
+The project currently has unresolved model-provenance and preprocessing issues. They are called out in the documentation because they affect how the results should be interpreted.
