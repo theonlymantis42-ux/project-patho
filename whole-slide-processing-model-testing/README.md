@@ -10,9 +10,9 @@ This folder contains the Paper 2 / whole-slide inference and review tools. The n
 
 ## Which notebook should I open?
 
-- **Project_Patho_Process_and_Review.ipynb** — full-grid processing and browser review report.
-- **Project_Patho_Stitched_GradCAM.ipynb** — the review workflow with optional stitched Grad-CAM attribution maps.
-- **Project_Patho_Paper2_Colab_Processing.ipynb** — a bounded processing workflow. Its default public CMU skin slide is a technical smoke test, not a cancer-detection evaluation.
+- [Project_Patho_Process_and_Review.ipynb](notebooks/Project_Patho_Process_and_Review.ipynb) — full-grid processing and browser review report.
+- [Project_Patho_Stitched_GradCAM.ipynb](notebooks/Project_Patho_Stitched_GradCAM.ipynb) — the review workflow with optional stitched Grad-CAM attribution maps.
+- [Project_Patho_Paper2_Colab_Processing.ipynb](notebooks/Project_Patho_Paper2_Colab_Processing.ipynb) — a bounded processing workflow. Its default public CMU skin slide is a technical smoke test, not a cancer-detection evaluation.
 
 The notebooks expect the model in the private Drive project folder at Pathology_Project/my_cancer_model.h5. Moving the checkpoint in GitHub does not change that Drive path. When setting up a new Colab session, put the file at the expected Drive location or update MODEL_PATH in the notebook.
 
