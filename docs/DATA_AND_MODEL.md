@@ -8,11 +8,11 @@ This page separates the datasets and checkpoints that appear in the repository. 
 | --- | --- | --- | --- |
 | PatchCamelyon (PCam) | Development data in the November 11 run manifest | 262,144 training rows and 32,768 validation rows; the manifest records source-slide counts and image hashes | The manifest says slide identity is known but biological patient separation is not verified |
 | CAMELYON17-WILDS | External patch evaluation in the archived Paper 1 analysis | A 2,000-patch sample from the hospital-2 test split; 9 patients and 10 slides | The sample is exploratory. It shares source patients/slides with pilot work, and earlier exposure cannot be ruled out completely |
-| CAMELYON17-WILDS center-coded result | Separate evaluation artifact in `results.json` | 241,062 patches across centers coded 0, 1, and 4; 30 slides and 24 case groups | This is a separate run from the 2,000-patch Paper 1 sample; see the preprocessing discrepancy below |
+| CAMELYON17-WILDS center-coded result | Separate evaluation artifact in `model-generalization-testing/runs/2026-11-11/results.json` | 241,062 patches across centers coded 0, 1, and 4; 30 slides and 24 case groups | This is a separate run from the 2,000-patch Paper 1 sample; see the preprocessing discrepancy below |
 
 ### PCam development split recorded in the November 11 manifest
 
-The file `zero_to_one_20261111.json` records:
+The file `model-generalization-testing/runs/2026-11-11/zero_to_one_20261111.json` records:
 
 - **Training:** 262,144 rows, 131,072 positive labels, 216 source slides, and 220,025 unique RGB hashes.
 - **Validation:** 32,768 rows, 16,369 positive labels, 54 source slides, and 28,108 unique RGB hashes.
@@ -44,7 +44,7 @@ The training-history disclosure records that approximately 30,000 images designa
 
 ### `model-generalization-testing/runs/2026-11-11/model.keras` — separate November 11 run
 
-A second checkpoint appears alongside `zero_to_one_20261111.json`, `run.json`, and `results.json`. The manifest records ImageNet initialization, five epochs, batch size 64, learning rate 0.001, seed 20261111, and a target sensitivity of 0.95.
+A second checkpoint appears alongside `zero_to_one_20261111.json`, `model-generalization-testing/runs/2026-11-11/run.json`, and `results.json`. The manifest records ImageNet initialization, five epochs, batch size 64, learning rate 0.001, seed 20261111, and a target sensitivity of 0.95.
 
 There is an unresolved conflict: the manifest says input scaling was **zero-to-one**, while `run.json` for the same recorded run says **minus-one-to-one**. The trainer hash is recorded in both metadata sources, so this is not a harmless naming difference. The source code, saved checkpoint, and scoring manifest need to be checked together before the associated metrics are treated as reproducible.
 
