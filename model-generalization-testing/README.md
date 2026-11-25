@@ -6,7 +6,7 @@ This folder contains the patch-level experiments and the Paper 1 records. The go
 
 - **notebooks/** — the original patch-level analysis notebook.
 - **manuscripts/** — Paper 1 protocol draft and archived manuscript files.
-- **Cases/** — raw false-positive and false-negative CSVs, separated by dataset and run.
+- [**Cases/**](Cases/) — raw false-positive and false-negative CSVs, separated by dataset and run.
 - **results/figures/** — plots and exported figures.
 - **results/tables/** — metrics, full prediction tables, slide summaries, and bootstrap outputs.
 - **runs/2026-11-11/** — the separate Keras checkpoint, training record, and center-coded evaluation artifacts.
