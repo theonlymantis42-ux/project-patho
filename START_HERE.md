@@ -14,11 +14,11 @@ The repository is now organized around the two main parts of the project.
 
 ## Browse the work
 
-- **Model Generalization Testing:** model-generalization-testing/
+- **[Model Generalization Testing](model-generalization-testing/):** model-generalization-testing/
   - Start with its README, then open Cases/ for false-positive and false-negative records.
   - Figures, metrics, manuscripts, model provenance, and scripts are grouped in their own subfolders.
-- **Whole-Slide Processing Model Testing:** whole-slide-processing-model-testing/
+- **[Whole-Slide Processing Model Testing](whole-slide-processing-model-testing/):** whole-slide-processing-model-testing/
   - Start with its README, then open notebooks/ for the slide-processing workflows.
-- **Project notes:** project-notes/ contains the retained run-log document.
+- **[Project notes](project-notes/):** project-notes/ contains the retained run-log document.
 
 The older Paper 1 analysis is exploratory, not clinical validation. The November 11 model run is kept separate because its saved manifest and run record disagree about input scaling. The notebooks load models from private Drive locations; they do not train models by themselves.
