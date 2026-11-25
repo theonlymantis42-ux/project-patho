@@ -1,0 +1,2001 @@
+Source_Index,Actual_Label,Actual_Condition,Cancer_Probability,Predicted_Label,AI_Prediction,Prediction_Confidence,Correct,Error_Type
+47801,1,Cancer,0.99979097,1,Cancer,0.99979097,True,Correct
+48038,0,Healthy,0.98321885,1,Cancer,0.98321885,False,False Positive
+47438,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47397,0,Healthy,0.9999981,1,Cancer,0.9999981,False,False Positive
+275649,0,Healthy,0.03785414,0,Healthy,0.96214586,True,Correct
+48066,0,Healthy,0.9997627,1,Cancer,0.9997627,False,False Positive
+47231,0,Healthy,0.9999995,1,Cancer,0.9999995,False,False Positive
+47950,0,Healthy,0.99993825,1,Cancer,0.99993825,False,False Positive
+48033,1,Cancer,0.44004077,0,Healthy,0.55995923,False,False Negative
+47285,1,Cancer,0.99566877,1,Cancer,0.99566877,True,Correct
+275860,0,Healthy,0.8541513,1,Cancer,0.8541513,False,False Positive
+47596,1,Cancer,0.9999671,1,Cancer,0.9999671,True,Correct
+48057,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47812,1,Cancer,0.99995244,1,Cancer,0.99995244,True,Correct
+275295,0,Healthy,0.0011929583,0,Healthy,0.998807,True,Correct
+47832,0,Healthy,0.99998176,1,Cancer,0.99998176,False,False Positive
+47592,1,Cancer,0.99999285,1,Cancer,0.99999285,True,Correct
+47230,0,Healthy,0.9999981,1,Cancer,0.9999981,False,False Positive
+48058,0,Healthy,0.9999974,1,Cancer,0.9999974,False,False Positive
+47242,1,Cancer,0.99970216,1,Cancer,0.99970216,True,Correct
+47797,1,Cancer,0.72625536,1,Cancer,0.72625536,True,Correct
+47721,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47870,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47215,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47467,0,Healthy,0.9996742,1,Cancer,0.9996742,False,False Positive
+47761,1,Cancer,0.99955803,1,Cancer,0.99955803,True,Correct
+47527,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47966,1,Cancer,0.9978206,1,Cancer,0.9978206,True,Correct
+47309,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275217,0,Healthy,0.010362332,0,Healthy,0.9896377,True,Correct
+275608,0,Healthy,0.0021247154,0,Healthy,0.9978753,True,Correct
+47851,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275691,0,Healthy,0.8468205,1,Cancer,0.8468205,False,False Positive
+47255,0,Healthy,0.99999964,1,Cancer,0.99999964,False,False Positive
+47726,1,Cancer,0.9985018,1,Cancer,0.9985018,True,Correct
+275445,0,Healthy,4.118949e-05,0,Healthy,0.9999588,True,Correct
+47917,0,Healthy,0.9999981,1,Cancer,0.9999981,False,False Positive
+48100,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47554,0,Healthy,0.9999374,1,Cancer,0.9999374,False,False Positive
+47823,0,Healthy,0.9999989,1,Cancer,0.9999989,False,False Positive
+47273,0,Healthy,0.99656576,1,Cancer,0.99656576,False,False Positive
+47439,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47751,1,Cancer,0.9999988,1,Cancer,0.9999988,True,Correct
+48099,0,Healthy,0.9999832,1,Cancer,0.9999832,False,False Positive
+47899,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+276023,0,Healthy,0.6186162,1,Cancer,0.6186162,False,False Positive
+47808,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47430,0,Healthy,0.9999647,1,Cancer,0.9999647,False,False Positive
+47230,1,Cancer,0.9999981,1,Cancer,0.9999981,True,Correct
+47502,1,Cancer,0.9992823,1,Cancer,0.9992823,True,Correct
+47645,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48161,0,Healthy,0.8280797,1,Cancer,0.8280797,False,False Positive
+47353,0,Healthy,0.99979895,1,Cancer,0.99979895,False,False Positive
+47587,1,Cancer,0.9999957,1,Cancer,0.9999957,True,Correct
+47513,0,Healthy,0.99999404,1,Cancer,0.99999404,False,False Positive
+275235,0,Healthy,0.18013458,0,Healthy,0.8198654,True,Correct
+47589,1,Cancer,0.99091107,1,Cancer,0.99091107,True,Correct
+47350,1,Cancer,0.9999622,1,Cancer,0.9999622,True,Correct
+47631,1,Cancer,0.94428164,1,Cancer,0.94428164,True,Correct
+47197,1,Cancer,0.968175,1,Cancer,0.968175,True,Correct
+47739,1,Cancer,0.80108833,1,Cancer,0.80108833,True,Correct
+48060,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+275660,0,Healthy,0.71058923,1,Cancer,0.71058923,False,False Positive
+47575,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47814,0,Healthy,0.942891,1,Cancer,0.942891,False,False Positive
+47309,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47321,0,Healthy,0.9997336,1,Cancer,0.9997336,False,False Positive
+47504,1,Cancer,0.9999881,1,Cancer,0.9999881,True,Correct
+47546,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+275148,0,Healthy,0.71656746,1,Cancer,0.71656746,False,False Positive
+47430,1,Cancer,0.9999647,1,Cancer,0.9999647,True,Correct
+48022,0,Healthy,0.99378306,1,Cancer,0.99378306,False,False Positive
+47584,1,Cancer,0.986636,1,Cancer,0.986636,True,Correct
+47399,1,Cancer,0.9999995,1,Cancer,0.9999995,True,Correct
+47605,1,Cancer,0.99459654,1,Cancer,0.99459654,True,Correct
+47401,1,Cancer,0.9999714,1,Cancer,0.9999714,True,Correct
+47994,1,Cancer,0.99992967,1,Cancer,0.99992967,True,Correct
+275923,0,Healthy,0.0004236165,0,Healthy,0.9995764,True,Correct
+47294,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47460,1,Cancer,0.99998987,1,Cancer,0.99998987,True,Correct
+47255,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47586,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+275863,0,Healthy,0.0136159295,0,Healthy,0.9863841,True,Correct
+47748,1,Cancer,0.9999975,1,Cancer,0.9999975,True,Correct
+47830,1,Cancer,0.99576485,1,Cancer,0.99576485,True,Correct
+47826,1,Cancer,0.42823997,0,Healthy,0.57176006,False,False Negative
+47455,1,Cancer,0.9999924,1,Cancer,0.9999924,True,Correct
+47776,0,Healthy,0.9957443,1,Cancer,0.9957443,False,False Positive
+47240,0,Healthy,0.99999714,1,Cancer,0.99999714,False,False Positive
+48163,0,Healthy,0.99906737,1,Cancer,0.99906737,False,False Positive
+275287,0,Healthy,0.015377011,0,Healthy,0.984623,True,Correct
+47654,1,Cancer,0.9289904,1,Cancer,0.9289904,True,Correct
+47779,1,Cancer,0.99996424,1,Cancer,0.99996424,True,Correct
+47320,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+47672,1,Cancer,0.9969459,1,Cancer,0.9969459,True,Correct
+275881,0,Healthy,0.48477742,0,Healthy,0.51522255,True,Correct
+47648,0,Healthy,0.9999305,1,Cancer,0.9999305,False,False Positive
+48114,1,Cancer,0.99997616,1,Cancer,0.99997616,True,Correct
+47613,1,Cancer,0.99961543,1,Cancer,0.99961543,True,Correct
+275684,0,Healthy,0.74009657,1,Cancer,0.74009657,False,False Positive
+47703,1,Cancer,0.3325471,0,Healthy,0.66745293,False,False Negative
+47392,1,Cancer,0.99997056,1,Cancer,0.99997056,True,Correct
+275700,0,Healthy,0.005724922,0,Healthy,0.9942751,True,Correct
+48074,0,Healthy,0.9999995,1,Cancer,0.9999995,False,False Positive
+48146,0,Healthy,0.99999917,1,Cancer,0.99999917,False,False Positive
+275616,0,Healthy,1.9572344e-06,0,Healthy,0.99999803,True,Correct
+47970,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47554,1,Cancer,0.9999374,1,Cancer,0.9999374,True,Correct
+48120,1,Cancer,0.9455087,1,Cancer,0.9455087,True,Correct
+47435,1,Cancer,0.99462825,1,Cancer,0.99462825,True,Correct
+48080,0,Healthy,0.9999585,1,Cancer,0.9999585,False,False Positive
+275622,0,Healthy,0.021575868,0,Healthy,0.97842413,True,Correct
+47750,1,Cancer,0.9961533,1,Cancer,0.9961533,True,Correct
+275957,0,Healthy,0.29906535,0,Healthy,0.70093465,True,Correct
+47724,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47311,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47662,1,Cancer,0.99959105,1,Cancer,0.99959105,True,Correct
+47333,1,Cancer,0.9989145,1,Cancer,0.9989145,True,Correct
+47827,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47852,0,Healthy,0.9995097,1,Cancer,0.9995097,False,False Positive
+47912,1,Cancer,0.9905586,1,Cancer,0.9905586,True,Correct
+48166,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47495,0,Healthy,0.9816917,1,Cancer,0.9816917,False,False Positive
+47929,1,Cancer,0.99989104,1,Cancer,0.99989104,True,Correct
+47493,1,Cancer,0.45551977,0,Healthy,0.5444802,False,False Negative
+275976,0,Healthy,0.00883206,0,Healthy,0.99116796,True,Correct
+47233,1,Cancer,0.9999964,1,Cancer,0.9999964,True,Correct
+275451,0,Healthy,0.013331268,0,Healthy,0.9866687,True,Correct
+47324,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+275725,0,Healthy,0.0003583191,0,Healthy,0.99964166,True,Correct
+48068,1,Cancer,0.999969,1,Cancer,0.999969,True,Correct
+275753,0,Healthy,0.76612926,1,Cancer,0.76612926,False,False Positive
+275275,0,Healthy,0.42869422,0,Healthy,0.57130575,True,Correct
+47446,1,Cancer,0.98020226,1,Cancer,0.98020226,True,Correct
+47555,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48042,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+48064,0,Healthy,0.99996257,1,Cancer,0.99996257,False,False Positive
+47175,1,Cancer,0.994409,1,Cancer,0.994409,True,Correct
+47479,1,Cancer,0.99989486,1,Cancer,0.99989486,True,Correct
+47979,0,Healthy,0.9999987,1,Cancer,0.9999987,False,False Positive
+275305,0,Healthy,0.59856516,1,Cancer,0.59856516,False,False Positive
+275754,0,Healthy,0.53323686,1,Cancer,0.53323686,False,False Positive
+47577,1,Cancer,0.9999901,1,Cancer,0.9999901,True,Correct
+275777,0,Healthy,0.9990433,1,Cancer,0.9990433,False,False Positive
+276007,0,Healthy,0.013501044,0,Healthy,0.98649895,True,Correct
+275367,0,Healthy,0.006684918,0,Healthy,0.9933151,True,Correct
+275216,0,Healthy,0.15010566,0,Healthy,0.84989434,True,Correct
+47499,1,Cancer,0.9999354,1,Cancer,0.9999354,True,Correct
+47638,1,Cancer,0.9999819,1,Cancer,0.9999819,True,Correct
+47181,1,Cancer,0.94668245,1,Cancer,0.94668245,True,Correct
+48146,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+47253,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+276094,0,Healthy,0.015204614,0,Healthy,0.9847954,True,Correct
+47407,1,Cancer,0.9999962,1,Cancer,0.9999962,True,Correct
+47258,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+48072,0,Healthy,0.99999774,1,Cancer,0.99999774,False,False Positive
+275360,0,Healthy,0.99996305,1,Cancer,0.99996305,False,False Positive
+48018,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47841,1,Cancer,0.0061784713,0,Healthy,0.9938215,False,False Negative
+47475,1,Cancer,0.999995,1,Cancer,0.999995,True,Correct
+275984,0,Healthy,0.005306957,0,Healthy,0.99469304,True,Correct
+275234,0,Healthy,0.06648386,0,Healthy,0.93351614,True,Correct
+47295,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+48133,1,Cancer,0.99992263,1,Cancer,0.99992263,True,Correct
+47927,1,Cancer,0.9991135,1,Cancer,0.9991135,True,Correct
+48084,1,Cancer,0.9999974,1,Cancer,0.9999974,True,Correct
+48066,1,Cancer,0.9997627,1,Cancer,0.9997627,True,Correct
+48113,0,Healthy,0.99999785,1,Cancer,0.99999785,False,False Positive
+47431,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47911,1,Cancer,0.9999645,1,Cancer,0.9999645,True,Correct
+47401,0,Healthy,0.9999714,1,Cancer,0.9999714,False,False Positive
+47710,0,Healthy,0.9999989,1,Cancer,0.9999989,False,False Positive
+47641,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47314,0,Healthy,0.9999902,1,Cancer,0.9999902,False,False Positive
+275651,0,Healthy,0.4716348,0,Healthy,0.5283652,True,Correct
+47917,1,Cancer,0.9999981,1,Cancer,0.9999981,True,Correct
+275369,0,Healthy,0.10064564,0,Healthy,0.89935434,True,Correct
+47336,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275576,0,Healthy,0.016615586,0,Healthy,0.98338443,True,Correct
+275572,0,Healthy,0.99872977,1,Cancer,0.99872977,False,False Positive
+48022,1,Cancer,0.99378306,1,Cancer,0.99378306,True,Correct
+47643,1,Cancer,0.9999987,1,Cancer,0.9999987,True,Correct
+275527,0,Healthy,0.956774,1,Cancer,0.956774,False,False Positive
+47241,1,Cancer,0.11329246,0,Healthy,0.88670754,False,False Negative
+47240,1,Cancer,0.99999714,1,Cancer,0.99999714,True,Correct
+275304,0,Healthy,0.08922566,0,Healthy,0.91077435,True,Correct
+47616,0,Healthy,0.99849916,1,Cancer,0.99849916,False,False Positive
+47386,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47425,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+47815,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47846,0,Healthy,0.9999993,1,Cancer,0.9999993,False,False Positive
+47611,1,Cancer,0.99998343,1,Cancer,0.99998343,True,Correct
+47326,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48016,0,Healthy,0.99999666,1,Cancer,0.99999666,False,False Positive
+276082,0,Healthy,1.0368829e-05,0,Healthy,0.9999896,True,Correct
+48012,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47276,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47453,1,Cancer,0.9994618,1,Cancer,0.9994618,True,Correct
+47213,1,Cancer,0.99949753,1,Cancer,0.99949753,True,Correct
+275689,0,Healthy,0.9987349,1,Cancer,0.9987349,False,False Positive
+47559,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47373,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+47337,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48067,1,Cancer,0.9999776,1,Cancer,0.9999776,True,Correct
+47498,0,Healthy,0.99999857,1,Cancer,0.99999857,False,False Positive
+47411,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+48153,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48073,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47995,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47213,0,Healthy,0.99949753,1,Cancer,0.99949753,False,False Positive
+47462,0,Healthy,0.999997,1,Cancer,0.999997,False,False Positive
+48103,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+47470,1,Cancer,0.99039876,1,Cancer,0.99039876,True,Correct
+47529,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275159,0,Healthy,0.008217967,0,Healthy,0.991782,True,Correct
+47996,1,Cancer,0.99641776,1,Cancer,0.99641776,True,Correct
+47318,1,Cancer,0.99972457,1,Cancer,0.99972457,True,Correct
+47855,0,Healthy,0.9999988,1,Cancer,0.9999988,False,False Positive
+276022,0,Healthy,1.5502224e-05,0,Healthy,0.9999845,True,Correct
+275157,0,Healthy,0.001029519,0,Healthy,0.9989705,True,Correct
+48001,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+275937,0,Healthy,0.027846625,0,Healthy,0.97215337,True,Correct
+276029,0,Healthy,0.6487943,1,Cancer,0.6487943,False,False Positive
+48046,1,Cancer,0.9993445,1,Cancer,0.9993445,True,Correct
+47916,1,Cancer,0.99871767,1,Cancer,0.99871767,True,Correct
+47377,0,Healthy,0.99992394,1,Cancer,0.99992394,False,False Positive
+48106,1,Cancer,0.99999833,1,Cancer,0.99999833,True,Correct
+48079,1,Cancer,0.9999119,1,Cancer,0.9999119,True,Correct
+47639,1,Cancer,0.99998367,1,Cancer,0.99998367,True,Correct
+48052,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47550,0,Healthy,0.99999964,1,Cancer,0.99999964,False,False Positive
+47539,1,Cancer,0.99990857,1,Cancer,0.99990857,True,Correct
+275930,0,Healthy,0.002340404,0,Healthy,0.9976596,True,Correct
+47690,1,Cancer,0.9999896,1,Cancer,0.9999896,True,Correct
+47708,0,Healthy,0.9875293,1,Cancer,0.9875293,False,False Positive
+47754,0,Healthy,0.99999154,1,Cancer,0.99999154,False,False Positive
+48065,1,Cancer,0.9999794,1,Cancer,0.9999794,True,Correct
+275192,0,Healthy,0.9644743,1,Cancer,0.9644743,False,False Positive
+47488,0,Healthy,0.99873644,1,Cancer,0.99873644,False,False Positive
+47501,0,Healthy,0.99806815,1,Cancer,0.99806815,False,False Positive
+47310,0,Healthy,0.99999225,1,Cancer,0.99999225,False,False Positive
+47396,0,Healthy,0.99899346,1,Cancer,0.99899346,False,False Positive
+275462,0,Healthy,0.03763195,0,Healthy,0.9623681,True,Correct
+48046,0,Healthy,0.9993445,1,Cancer,0.9993445,False,False Positive
+47196,1,Cancer,0.99892384,1,Cancer,0.99892384,True,Correct
+47594,1,Cancer,0.65860003,1,Cancer,0.65860003,True,Correct
+48167,1,Cancer,0.99984634,1,Cancer,0.99984634,True,Correct
+47420,1,Cancer,0.99992406,1,Cancer,0.99992406,True,Correct
+47648,1,Cancer,0.9999305,1,Cancer,0.9999305,True,Correct
+275250,0,Healthy,2.587027e-05,0,Healthy,0.99997413,True,Correct
+47832,1,Cancer,0.99998176,1,Cancer,0.99998176,True,Correct
+47932,1,Cancer,0.99998546,1,Cancer,0.99998546,True,Correct
+47710,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+47658,0,Healthy,0.9999989,1,Cancer,0.9999989,False,False Positive
+47505,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+47412,0,Healthy,0.9999981,1,Cancer,0.9999981,False,False Positive
+47346,0,Healthy,0.99999964,1,Cancer,0.99999964,False,False Positive
+47719,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275415,0,Healthy,0.47380245,0,Healthy,0.52619755,True,Correct
+47395,1,Cancer,0.9999813,1,Cancer,0.9999813,True,Correct
+47950,1,Cancer,0.99993825,1,Cancer,0.99993825,True,Correct
+47691,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+275693,0,Healthy,0.0027082437,0,Healthy,0.99729174,True,Correct
+275489,0,Healthy,0.9889493,1,Cancer,0.9889493,False,False Positive
+47205,0,Healthy,0.9999702,1,Cancer,0.9999702,False,False Positive
+47935,0,Healthy,0.99996614,1,Cancer,0.99996614,False,False Positive
+48091,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+275835,0,Healthy,0.999416,1,Cancer,0.999416,False,False Positive
+48029,0,Healthy,0.8124428,1,Cancer,0.8124428,False,False Positive
+47465,0,Healthy,0.9999939,1,Cancer,0.9999939,False,False Positive
+275978,0,Healthy,0.004640749,0,Healthy,0.99535924,True,Correct
+47655,1,Cancer,0.9970311,1,Cancer,0.9970311,True,Correct
+275345,0,Healthy,0.9998467,1,Cancer,0.9998467,False,False Positive
+275657,0,Healthy,0.97552186,1,Cancer,0.97552186,False,False Positive
+47254,1,Cancer,0.9999733,1,Cancer,0.9999733,True,Correct
+47943,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+275204,0,Healthy,0.79602027,1,Cancer,0.79602027,False,False Positive
+47319,1,Cancer,0.99994683,1,Cancer,0.99994683,True,Correct
+47901,1,Cancer,0.99999475,1,Cancer,0.99999475,True,Correct
+47528,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47998,0,Healthy,0.99981815,1,Cancer,0.99981815,False,False Positive
+275653,0,Healthy,0.8659894,1,Cancer,0.8659894,False,False Positive
+48058,1,Cancer,0.9999974,1,Cancer,0.9999974,True,Correct
+48080,1,Cancer,0.9999585,1,Cancer,0.9999585,True,Correct
+47797,0,Healthy,0.72625536,1,Cancer,0.72625536,False,False Positive
+48038,1,Cancer,0.98321885,1,Cancer,0.98321885,True,Correct
+47887,1,Cancer,0.997997,1,Cancer,0.997997,True,Correct
+47468,1,Cancer,0.9937177,1,Cancer,0.9937177,True,Correct
+47173,1,Cancer,0.968671,1,Cancer,0.968671,True,Correct
+48112,0,Healthy,0.9999746,1,Cancer,0.9999746,False,False Positive
+47534,1,Cancer,0.999998,1,Cancer,0.999998,True,Correct
+47628,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47668,1,Cancer,0.99993694,1,Cancer,0.99993694,True,Correct
+47375,1,Cancer,0.9998578,1,Cancer,0.9998578,True,Correct
+47345,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47884,0,Healthy,0.99884593,1,Cancer,0.99884593,False,False Positive
+47632,1,Cancer,0.99940705,1,Cancer,0.99940705,True,Correct
+275485,0,Healthy,0.94914865,1,Cancer,0.94914865,False,False Positive
+275830,0,Healthy,0.07143343,0,Healthy,0.9285666,True,Correct
+47247,1,Cancer,0.99999666,1,Cancer,0.99999666,True,Correct
+47582,1,Cancer,0.9999962,1,Cancer,0.9999962,True,Correct
+47601,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+48064,1,Cancer,0.99996257,1,Cancer,0.99996257,True,Correct
+47522,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47995,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275514,0,Healthy,0.9939698,1,Cancer,0.9939698,False,False Positive
+275743,0,Healthy,0.0043531195,0,Healthy,0.9956469,True,Correct
+275833,0,Healthy,0.12903166,0,Healthy,0.87096834,True,Correct
+47506,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+47807,1,Cancer,0.9997515,1,Cancer,0.9997515,True,Correct
+275339,0,Healthy,0.012417106,0,Healthy,0.9875829,True,Correct
+47315,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+276084,0,Healthy,0.07452486,0,Healthy,0.9254751,True,Correct
+275932,0,Healthy,0.37025315,0,Healthy,0.62974685,True,Correct
+47651,0,Healthy,0.9999275,1,Cancer,0.9999275,False,False Positive
+47754,1,Cancer,0.99999154,1,Cancer,0.99999154,True,Correct
+47761,0,Healthy,0.99955803,1,Cancer,0.99955803,False,False Positive
+47558,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47739,0,Healthy,0.80108833,1,Cancer,0.80108833,False,False Positive
+47509,1,Cancer,0.9974439,1,Cancer,0.9974439,True,Correct
+47588,0,Healthy,0.9992373,1,Cancer,0.9992373,False,False Positive
+47540,1,Cancer,0.9999858,1,Cancer,0.9999858,True,Correct
+275873,0,Healthy,0.0026260703,0,Healthy,0.99737394,True,Correct
+48128,1,Cancer,0.9999882,1,Cancer,0.9999882,True,Correct
+275583,0,Healthy,0.07704612,0,Healthy,0.9229539,True,Correct
+48067,0,Healthy,0.9999776,1,Cancer,0.9999776,False,False Positive
+47732,1,Cancer,0.96796566,1,Cancer,0.96796566,True,Correct
+47280,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275951,0,Healthy,0.051341325,0,Healthy,0.9486587,True,Correct
+47290,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47857,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+47254,0,Healthy,0.9999733,1,Cancer,0.9999733,False,False Positive
+47300,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47635,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275757,0,Healthy,0.15439588,0,Healthy,0.8456041,True,Correct
+275677,0,Healthy,0.0007473336,0,Healthy,0.9992527,True,Correct
+276123,0,Healthy,0.7412565,1,Cancer,0.7412565,False,False Positive
+48001,0,Healthy,0.99999964,1,Cancer,0.99999964,False,False Positive
+48112,1,Cancer,0.9999746,1,Cancer,0.9999746,True,Correct
+47187,1,Cancer,0.94378006,1,Cancer,0.94378006,True,Correct
+47314,1,Cancer,0.9999902,1,Cancer,0.9999902,True,Correct
+47662,0,Healthy,0.99959105,1,Cancer,0.99959105,False,False Positive
+48083,0,Healthy,0.9963517,1,Cancer,0.9963517,False,False Positive
+47513,1,Cancer,0.99999404,1,Cancer,0.99999404,True,Correct
+275428,0,Healthy,0.6413385,1,Cancer,0.6413385,False,False Positive
+275636,0,Healthy,0.004250631,0,Healthy,0.99574935,True,Correct
+275759,0,Healthy,0.0030303465,0,Healthy,0.99696964,True,Correct
+47721,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275942,0,Healthy,0.99999285,1,Cancer,0.99999285,False,False Positive
+275541,0,Healthy,4.4664164e-05,0,Healthy,0.99995536,True,Correct
+275829,0,Healthy,0.0680528,0,Healthy,0.93194723,True,Correct
+47661,1,Cancer,0.9992447,1,Cancer,0.9992447,True,Correct
+47769,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47206,1,Cancer,0.9999988,1,Cancer,0.9999988,True,Correct
+47379,1,Cancer,0.99996316,1,Cancer,0.99996316,True,Correct
+47509,0,Healthy,0.9974439,1,Cancer,0.9974439,False,False Positive
+47748,0,Healthy,0.9999975,1,Cancer,0.9999975,False,False Positive
+275902,0,Healthy,0.009586041,0,Healthy,0.99041396,True,Correct
+47649,0,Healthy,0.997053,1,Cancer,0.997053,False,False Positive
+47903,1,Cancer,0.998629,1,Cancer,0.998629,True,Correct
+48035,1,Cancer,0.04743811,0,Healthy,0.9525619,False,False Negative
+48163,1,Cancer,0.99906737,1,Cancer,0.99906737,True,Correct
+47561,1,Cancer,0.990999,1,Cancer,0.990999,True,Correct
+47850,0,Healthy,0.99999964,1,Cancer,0.99999964,False,False Positive
+275845,0,Healthy,0.010134784,0,Healthy,0.98986524,True,Correct
+47979,1,Cancer,0.9999987,1,Cancer,0.9999987,True,Correct
+47967,1,Cancer,0.24366884,0,Healthy,0.75633115,False,False Negative
+47576,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275500,0,Healthy,0.6187389,1,Cancer,0.6187389,False,False Positive
+48141,1,Cancer,0.9997867,1,Cancer,0.9997867,True,Correct
+47394,1,Cancer,0.9945315,1,Cancer,0.9945315,True,Correct
+275537,0,Healthy,0.7886355,1,Cancer,0.7886355,False,False Positive
+47685,1,Cancer,0.97902656,1,Cancer,0.97902656,True,Correct
+48014,0,Healthy,0.99998903,1,Cancer,0.99998903,False,False Positive
+47952,1,Cancer,0.9999968,1,Cancer,0.9999968,True,Correct
+275147,0,Healthy,0.058145747,0,Healthy,0.94185424,True,Correct
+275153,0,Healthy,0.9134907,1,Cancer,0.9134907,False,False Positive
+47282,1,Cancer,0.9611507,1,Cancer,0.9611507,True,Correct
+275298,0,Healthy,0.9866942,1,Cancer,0.9866942,False,False Positive
+47625,0,Healthy,0.9998042,1,Cancer,0.9998042,False,False Positive
+47946,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+47814,1,Cancer,0.942891,1,Cancer,0.942891,True,Correct
+275850,0,Healthy,0.3345879,0,Healthy,0.66541207,True,Correct
+47505,0,Healthy,0.9999989,1,Cancer,0.9999989,False,False Positive
+47753,1,Cancer,0.9816073,1,Cancer,0.9816073,True,Correct
+48069,1,Cancer,0.9998933,1,Cancer,0.9998933,True,Correct
+47608,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+47496,1,Cancer,0.9988305,1,Cancer,0.9988305,True,Correct
+275399,0,Healthy,3.7714555e-05,0,Healthy,0.9999623,True,Correct
+47865,1,Cancer,0.75690484,1,Cancer,0.75690484,True,Correct
+276068,0,Healthy,0.00068257476,0,Healthy,0.9993174,True,Correct
+48062,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+47991,0,Healthy,0.9996884,1,Cancer,0.9996884,False,False Positive
+275618,0,Healthy,0.028331514,0,Healthy,0.9716685,True,Correct
+47367,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47850,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47458,1,Cancer,0.9999144,1,Cancer,0.9999144,True,Correct
+275167,0,Healthy,0.011941345,0,Healthy,0.9880586,True,Correct
+275720,0,Healthy,0.14893195,0,Healthy,0.851068,True,Correct
+48036,1,Cancer,0.99999774,1,Cancer,0.99999774,True,Correct
+47859,1,Cancer,0.99991965,1,Cancer,0.99991965,True,Correct
+275237,0,Healthy,0.26378062,0,Healthy,0.7362194,True,Correct
+48041,0,Healthy,0.999488,1,Cancer,0.999488,False,False Positive
+47567,1,Cancer,0.64765924,1,Cancer,0.64765924,True,Correct
+47440,0,Healthy,0.99979514,1,Cancer,0.99979514,False,False Positive
+48143,0,Healthy,0.99989295,1,Cancer,0.99989295,False,False Positive
+47649,1,Cancer,0.997053,1,Cancer,0.997053,True,Correct
+276021,0,Healthy,8.545742e-06,0,Healthy,0.9999915,True,Correct
+275695,0,Healthy,0.9986261,1,Cancer,0.9986261,False,False Positive
+275678,0,Healthy,0.04653586,0,Healthy,0.95346415,True,Correct
+47769,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+275568,0,Healthy,0.00037167515,0,Healthy,0.9996283,True,Correct
+275578,0,Healthy,0.0264532,0,Healthy,0.9735468,True,Correct
+47489,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+275378,0,Healthy,0.10894192,0,Healthy,0.8910581,True,Correct
+275798,0,Healthy,0.0123448875,0,Healthy,0.9876551,True,Correct
+47359,1,Cancer,0.99990165,1,Cancer,0.99990165,True,Correct
+48110,1,Cancer,0.99998426,1,Cancer,0.99998426,True,Correct
+47960,1,Cancer,0.99999857,1,Cancer,0.99999857,True,Correct
+47853,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47718,1,Cancer,0.9808873,1,Cancer,0.9808873,True,Correct
+48077,0,Healthy,0.9991549,1,Cancer,0.9991549,False,False Positive
+48051,1,Cancer,0.9963301,1,Cancer,0.9963301,True,Correct
+275469,0,Healthy,0.9946308,1,Cancer,0.9946308,False,False Positive
+47538,1,Cancer,0.96412915,1,Cancer,0.96412915,True,Correct
+47821,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47330,1,Cancer,0.942907,1,Cancer,0.942907,True,Correct
+275386,0,Healthy,0.33869916,0,Healthy,0.66130084,True,Correct
+47525,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48044,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48033,0,Healthy,0.44004077,0,Healthy,0.55995923,True,Correct
+48000,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+47681,0,Healthy,0.99993014,1,Cancer,0.99993014,False,False Positive
+47853,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48105,1,Cancer,0.99958605,1,Cancer,0.99958605,True,Correct
+48100,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47852,1,Cancer,0.9995097,1,Cancer,0.9995097,True,Correct
+47889,1,Cancer,0.9975714,1,Cancer,0.9975714,True,Correct
+47548,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+48045,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47527,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48149,1,Cancer,0.9992673,1,Cancer,0.9992673,True,Correct
+275846,0,Healthy,0.14006847,0,Healthy,0.8599315,True,Correct
+47665,0,Healthy,0.96581304,1,Cancer,0.96581304,False,False Positive
+47455,0,Healthy,0.9999924,1,Cancer,0.9999924,False,False Positive
+47851,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+276006,0,Healthy,0.999744,1,Cancer,0.999744,False,False Positive
+47619,1,Cancer,0.9999906,1,Cancer,0.9999906,True,Correct
+47467,1,Cancer,0.9996742,1,Cancer,0.9996742,True,Correct
+47807,0,Healthy,0.9997515,1,Cancer,0.9997515,False,False Positive
+47194,0,Healthy,0.9747638,1,Cancer,0.9747638,False,False Positive
+48013,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275151,0,Healthy,0.0024065592,0,Healthy,0.99759346,True,Correct
+48089,1,Cancer,0.9960639,1,Cancer,0.9960639,True,Correct
+275478,0,Healthy,0.8921533,1,Cancer,0.8921533,False,False Positive
+47759,0,Healthy,0.9995813,1,Cancer,0.9995813,False,False Positive
+47237,1,Cancer,0.9999912,1,Cancer,0.9999912,True,Correct
+275383,0,Healthy,0.0062823896,0,Healthy,0.9937176,True,Correct
+275459,0,Healthy,0.09521821,0,Healthy,0.9047818,True,Correct
+275828,0,Healthy,0.05147307,0,Healthy,0.9485269,True,Correct
+276039,0,Healthy,0.09294317,0,Healthy,0.9070568,True,Correct
+48034,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47595,1,Cancer,0.9828662,1,Cancer,0.9828662,True,Correct
+47180,0,Healthy,0.99701715,1,Cancer,0.99701715,False,False Positive
+47951,0,Healthy,0.6244145,1,Cancer,0.6244145,False,False Positive
+275322,0,Healthy,0.43978348,0,Healthy,0.56021655,True,Correct
+47746,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275168,0,Healthy,0.8679936,1,Cancer,0.8679936,False,False Positive
+275254,0,Healthy,0.84199375,1,Cancer,0.84199375,False,False Positive
+275661,0,Healthy,0.99583286,1,Cancer,0.99583286,False,False Positive
+275494,0,Healthy,0.03540232,0,Healthy,0.9645977,True,Correct
+47326,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275432,0,Healthy,0.008377748,0,Healthy,0.99162227,True,Correct
+275964,0,Healthy,0.00011940634,0,Healthy,0.9998806,True,Correct
+47911,0,Healthy,0.9999645,1,Cancer,0.9999645,False,False Positive
+47424,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47405,0,Healthy,0.99999905,1,Cancer,0.99999905,False,False Positive
+47892,1,Cancer,0.9998318,1,Cancer,0.9998318,True,Correct
+47504,0,Healthy,0.9999881,1,Cancer,0.9999881,False,False Positive
+47416,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48165,1,Cancer,0.9984157,1,Cancer,0.9984157,True,Correct
+47849,1,Cancer,0.926197,1,Cancer,0.926197,True,Correct
+47657,1,Cancer,0.9999527,1,Cancer,0.9999527,True,Correct
+47808,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275291,0,Healthy,0.95628655,1,Cancer,0.95628655,False,False Positive
+47208,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48105,0,Healthy,0.99958605,1,Cancer,0.99958605,False,False Positive
+47860,1,Cancer,0.76121473,1,Cancer,0.76121473,True,Correct
+47239,1,Cancer,0.9999932,1,Cancer,0.9999932,True,Correct
+48117,0,Healthy,0.68708324,1,Cancer,0.68708324,False,False Positive
+47199,1,Cancer,0.9999716,1,Cancer,0.9999716,True,Correct
+47623,1,Cancer,0.99555594,1,Cancer,0.99555594,True,Correct
+275274,0,Healthy,0.1522731,0,Healthy,0.8477269,True,Correct
+48148,1,Cancer,0.9997459,1,Cancer,0.9997459,True,Correct
+275449,0,Healthy,0.88872015,1,Cancer,0.88872015,False,False Positive
+275376,0,Healthy,0.998923,1,Cancer,0.998923,False,False Positive
+48020,0,Healthy,0.9999963,1,Cancer,0.9999963,False,False Positive
+47806,0,Healthy,0.99991,1,Cancer,0.99991,False,False Positive
+47910,1,Cancer,0.9999964,1,Cancer,0.9999964,True,Correct
+47260,1,Cancer,0.9999689,1,Cancer,0.9999689,True,Correct
+275756,0,Healthy,0.0029704466,0,Healthy,0.99702954,True,Correct
+276018,0,Healthy,4.3361478e-10,0,Healthy,1.0,True,Correct
+275323,0,Healthy,0.8992244,1,Cancer,0.8992244,False,False Positive
+47491,1,Cancer,0.9994842,1,Cancer,0.9994842,True,Correct
+47841,0,Healthy,0.0061784713,0,Healthy,0.9938215,True,Correct
+47835,1,Cancer,0.9999237,1,Cancer,0.9999237,True,Correct
+47894,0,Healthy,0.99995077,1,Cancer,0.99995077,False,False Positive
+48032,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47483,1,Cancer,0.99780065,1,Cancer,0.99780065,True,Correct
+48040,1,Cancer,0.9969977,1,Cancer,0.9969977,True,Correct
+47625,1,Cancer,0.9998042,1,Cancer,0.9998042,True,Correct
+47454,1,Cancer,0.9988059,1,Cancer,0.9988059,True,Correct
+47872,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+47274,1,Cancer,0.99933976,1,Cancer,0.99933976,True,Correct
+47958,1,Cancer,0.9999758,1,Cancer,0.9999758,True,Correct
+275281,0,Healthy,0.009698093,0,Healthy,0.9903019,True,Correct
+47462,1,Cancer,0.999997,1,Cancer,0.999997,True,Correct
+275200,0,Healthy,0.092535935,0,Healthy,0.9074641,True,Correct
+47367,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+276114,0,Healthy,0.018149488,0,Healthy,0.9818505,True,Correct
+47707,1,Cancer,0.99942017,1,Cancer,0.99942017,True,Correct
+275965,0,Healthy,0.05124822,0,Healthy,0.9487518,True,Correct
+47888,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+47858,1,Cancer,0.9966102,1,Cancer,0.9966102,True,Correct
+47432,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47690,0,Healthy,0.9999896,1,Cancer,0.9999896,False,False Positive
+47184,1,Cancer,0.7977423,1,Cancer,0.7977423,True,Correct
+47428,1,Cancer,0.99996686,1,Cancer,0.99996686,True,Correct
+275727,0,Healthy,0.85226226,1,Cancer,0.85226226,False,False Positive
+47942,1,Cancer,0.001612831,0,Healthy,0.99838716,False,False Negative
+275821,0,Healthy,0.2673944,0,Healthy,0.7326056,True,Correct
+275195,0,Healthy,0.10245219,0,Healthy,0.89754784,True,Correct
+47946,0,Healthy,0.99999905,1,Cancer,0.99999905,False,False Positive
+47688,1,Cancer,0.99999774,1,Cancer,0.99999774,True,Correct
+47386,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47987,1,Cancer,0.9998597,1,Cancer,0.9998597,True,Correct
+275839,0,Healthy,0.10454661,0,Healthy,0.8954534,True,Correct
+47656,0,Healthy,0.9999938,1,Cancer,0.9999938,False,False Positive
+48052,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47844,1,Cancer,0.9968431,1,Cancer,0.9968431,True,Correct
+47426,0,Healthy,0.95160455,1,Cancer,0.95160455,False,False Positive
+48072,1,Cancer,0.99999774,1,Cancer,0.99999774,True,Correct
+47645,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+275686,0,Healthy,0.75649595,1,Cancer,0.75649595,False,False Positive
+48057,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47863,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47921,0,Healthy,0.9980445,1,Cancer,0.9980445,False,False Positive
+47465,1,Cancer,0.9999939,1,Cancer,0.9999939,True,Correct
+47479,0,Healthy,0.99989486,1,Cancer,0.99989486,False,False Positive
+275229,0,Healthy,0.9981188,1,Cancer,0.9981188,False,False Positive
+47394,0,Healthy,0.9945315,1,Cancer,0.9945315,False,False Positive
+48044,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48016,1,Cancer,0.99999666,1,Cancer,0.99999666,True,Correct
+47383,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275197,0,Healthy,1.9040881e-05,0,Healthy,0.999981,True,Correct
+276012,0,Healthy,0.9461796,1,Cancer,0.9461796,False,False Positive
+47540,0,Healthy,0.9999858,1,Cancer,0.9999858,False,False Positive
+275285,0,Healthy,0.27665144,0,Healthy,0.72334856,True,Correct
+276116,0,Healthy,0.9987245,1,Cancer,0.9987245,False,False Positive
+47304,1,Cancer,0.99998236,1,Cancer,0.99998236,True,Correct
+48160,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+48145,1,Cancer,0.99996734,1,Cancer,0.99996734,True,Correct
+47783,1,Cancer,0.99102926,1,Cancer,0.99102926,True,Correct
+47846,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+275233,0,Healthy,0.8539626,1,Cancer,0.8539626,False,False Positive
+47829,1,Cancer,0.99999845,1,Cancer,0.99999845,True,Correct
+47266,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47646,0,Healthy,0.9999696,1,Cancer,0.9999696,False,False Positive
+275906,0,Healthy,0.012604969,0,Healthy,0.98739505,True,Correct
+47400,1,Cancer,0.9992574,1,Cancer,0.9992574,True,Correct
+48139,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+276056,0,Healthy,0.0019315106,0,Healthy,0.9980685,True,Correct
+275363,0,Healthy,0.5959946,1,Cancer,0.5959946,False,False Positive
+275857,0,Healthy,0.87545973,1,Cancer,0.87545973,False,False Positive
+275623,0,Healthy,0.060382742,0,Healthy,0.9396173,True,Correct
+47641,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47960,0,Healthy,0.99999857,1,Cancer,0.99999857,False,False Positive
+47600,1,Cancer,0.999998,1,Cancer,0.999998,True,Correct
+47271,1,Cancer,0.9996997,1,Cancer,0.9996997,True,Correct
+275355,0,Healthy,0.0020100675,0,Healthy,0.99798995,True,Correct
+275620,0,Healthy,0.0007648388,0,Healthy,0.99923515,True,Correct
+47353,1,Cancer,0.99979895,1,Cancer,0.99979895,True,Correct
+47387,1,Cancer,0.99999213,1,Cancer,0.99999213,True,Correct
+47755,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+47847,1,Cancer,0.9997373,1,Cancer,0.9997373,True,Correct
+275862,0,Healthy,0.009186313,0,Healthy,0.9908137,True,Correct
+48071,1,Cancer,0.9998148,1,Cancer,0.9998148,True,Correct
+275510,0,Healthy,0.28886467,0,Healthy,0.7111353,True,Correct
+47348,1,Cancer,0.9999981,1,Cancer,0.9999981,True,Correct
+47186,1,Cancer,0.99965405,1,Cancer,0.99965405,True,Correct
+47214,1,Cancer,0.999196,1,Cancer,0.999196,True,Correct
+276044,0,Healthy,5.183154e-06,0,Healthy,0.9999948,True,Correct
+48068,0,Healthy,0.999969,1,Cancer,0.999969,False,False Positive
+47776,1,Cancer,0.9957443,1,Cancer,0.9957443,True,Correct
+47767,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47383,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47555,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47391,1,Cancer,0.99975353,1,Cancer,0.99975353,True,Correct
+47970,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+48099,1,Cancer,0.9999832,1,Cancer,0.9999832,True,Correct
+47644,1,Cancer,0.9999802,1,Cancer,0.9999802,True,Correct
+275303,0,Healthy,0.02653335,0,Healthy,0.97346663,True,Correct
+47310,1,Cancer,0.99999225,1,Cancer,0.99999225,True,Correct
+275562,0,Healthy,0.02497615,0,Healthy,0.97502387,True,Correct
+47992,1,Cancer,0.99999833,1,Cancer,0.99999833,True,Correct
+47215,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+48074,1,Cancer,0.9999995,1,Cancer,0.9999995,True,Correct
+275619,0,Healthy,0.0036742506,0,Healthy,0.99632573,True,Correct
+47789,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47291,1,Cancer,0.9563845,1,Cancer,0.9563845,True,Correct
+47921,1,Cancer,0.9980445,1,Cancer,0.9980445,True,Correct
+47901,0,Healthy,0.99999475,1,Cancer,0.99999475,False,False Positive
+47296,0,Healthy,0.9998505,1,Cancer,0.9998505,False,False Positive
+275726,0,Healthy,0.008649389,0,Healthy,0.9913506,True,Correct
+47613,0,Healthy,0.99961543,1,Cancer,0.99961543,False,False Positive
+47716,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+48040,0,Healthy,0.9969977,1,Cancer,0.9969977,False,False Positive
+47232,0,Healthy,0.99999356,1,Cancer,0.99999356,False,False Positive
+47770,1,Cancer,0.999998,1,Cancer,0.999998,True,Correct
+48108,1,Cancer,0.93688965,1,Cancer,0.93688965,True,Correct
+276112,0,Healthy,0.0008362377,0,Healthy,0.99916375,True,Correct
+275230,0,Healthy,0.28710368,0,Healthy,0.71289635,True,Correct
+47219,1,Cancer,0.99999547,1,Cancer,0.99999547,True,Correct
+48142,1,Cancer,0.99992025,1,Cancer,0.99992025,True,Correct
+47840,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47201,0,Healthy,0.9997646,1,Cancer,0.9997646,False,False Positive
+275746,0,Healthy,0.028620007,0,Healthy,0.97138,True,Correct
+47956,0,Healthy,0.9999223,1,Cancer,0.9999223,False,False Positive
+275266,0,Healthy,0.8194167,1,Cancer,0.8194167,False,False Positive
+47904,1,Cancer,0.99934715,1,Cancer,0.99934715,True,Correct
+48117,1,Cancer,0.68708324,1,Cancer,0.68708324,True,Correct
+275542,0,Healthy,0.040678103,0,Healthy,0.9593219,True,Correct
+47947,1,Cancer,0.99999774,1,Cancer,0.99999774,True,Correct
+275844,0,Healthy,0.90098256,1,Cancer,0.90098256,False,False Positive
+47981,1,Cancer,0.9997315,1,Cancer,0.9997315,True,Correct
+47379,0,Healthy,0.99996316,1,Cancer,0.99996316,False,False Positive
+47431,0,Healthy,0.99999976,1,Cancer,0.99999976,False,False Positive
+47277,1,Cancer,0.94554204,1,Cancer,0.94554204,True,Correct
+47447,1,Cancer,0.999967,1,Cancer,0.999967,True,Correct
+47539,0,Healthy,0.99990857,1,Cancer,0.99990857,False,False Positive
+275321,0,Healthy,1.0683867e-05,0,Healthy,0.99998933,True,Correct
+47577,0,Healthy,0.9999901,1,Cancer,0.9999901,False,False Positive
+275155,0,Healthy,0.97211605,1,Cancer,0.97211605,False,False Positive
+47863,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47347,0,Healthy,0.99997914,1,Cancer,0.99997914,False,False Positive
+275806,0,Healthy,0.052166272,0,Healthy,0.9478337,True,Correct
+47267,0,Healthy,0.99999774,1,Cancer,0.99999774,False,False Positive
+47335,0,Healthy,0.99684674,1,Cancer,0.99684674,False,False Positive
+47654,0,Healthy,0.9289904,1,Cancer,0.9289904,False,False Positive
+47918,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47775,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+276010,0,Healthy,0.0008193889,0,Healthy,0.9991806,True,Correct
+276093,0,Healthy,0.13608392,0,Healthy,0.8639161,True,Correct
+275903,0,Healthy,0.8538512,1,Cancer,0.8538512,False,False Positive
+47859,0,Healthy,0.99991965,1,Cancer,0.99991965,False,False Positive
+47201,1,Cancer,0.9997646,1,Cancer,0.9997646,True,Correct
+47231,1,Cancer,0.9999995,1,Cancer,0.9999995,True,Correct
+275617,0,Healthy,0.117266506,0,Healthy,0.88273346,True,Correct
+47663,1,Cancer,0.9998783,1,Cancer,0.9998783,True,Correct
+47576,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47588,1,Cancer,0.9992373,1,Cancer,0.9992373,True,Correct
+48125,1,Cancer,0.999997,1,Cancer,0.999997,True,Correct
+47412,1,Cancer,0.9999981,1,Cancer,0.9999981,True,Correct
+47998,1,Cancer,0.99981815,1,Cancer,0.99981815,True,Correct
+48000,0,Healthy,0.9999994,1,Cancer,0.9999994,False,False Positive
+47707,0,Healthy,0.99942017,1,Cancer,0.99942017,False,False Positive
+47587,0,Healthy,0.9999957,1,Cancer,0.9999957,False,False Positive
+47500,1,Cancer,0.9999913,1,Cancer,0.9999913,True,Correct
+275227,0,Healthy,0.00013102943,0,Healthy,0.999869,True,Correct
+48104,1,Cancer,0.99992776,1,Cancer,0.99992776,True,Correct
+47286,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47302,1,Cancer,0.9999521,1,Cancer,0.9999521,True,Correct
+275245,0,Healthy,0.0023358804,0,Healthy,0.9976641,True,Correct
+47375,0,Healthy,0.9998578,1,Cancer,0.9998578,False,False Positive
+47646,1,Cancer,0.9999696,1,Cancer,0.9999696,True,Correct
+48136,1,Cancer,0.9998907,1,Cancer,0.9998907,True,Correct
+275468,0,Healthy,0.07643378,0,Healthy,0.9235662,True,Correct
+47529,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+48042,0,Healthy,0.99999905,1,Cancer,0.99999905,False,False Positive
+47346,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47182,1,Cancer,0.995497,1,Cancer,0.995497,True,Correct
+47855,1,Cancer,0.9999988,1,Cancer,0.9999988,True,Correct
+275208,0,Healthy,0.0010769089,0,Healthy,0.99892306,True,Correct
+48083,1,Cancer,0.9963517,1,Cancer,0.9963517,True,Correct
+47545,1,Cancer,0.99998176,1,Cancer,0.99998176,True,Correct
+47706,1,Cancer,0.99998033,1,Cancer,0.99998033,True,Correct
+275994,0,Healthy,8.988019e-05,0,Healthy,0.9999101,True,Correct
+47413,0,Healthy,0.9999981,1,Cancer,0.9999981,False,False Positive
+47876,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275614,0,Healthy,0.6072931,1,Cancer,0.6072931,False,False Positive
+47703,0,Healthy,0.3325471,0,Healthy,0.66745293,True,Correct
+47558,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+48018,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47426,1,Cancer,0.95160455,1,Cancer,0.95160455,True,Correct
+47943,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47322,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+275601,0,Healthy,0.7578597,1,Cancer,0.7578597,False,False Positive
+47638,0,Healthy,0.9999819,1,Cancer,0.9999819,False,False Positive
+47350,0,Healthy,0.9999622,1,Cancer,0.9999622,False,False Positive
+47396,1,Cancer,0.99899346,1,Cancer,0.99899346,True,Correct
+48089,0,Healthy,0.9960639,1,Cancer,0.9960639,False,False Positive
+48014,1,Cancer,0.99998903,1,Cancer,0.99998903,True,Correct
+47951,1,Cancer,0.6244145,1,Cancer,0.6244145,True,Correct
+47271,0,Healthy,0.9996997,1,Cancer,0.9996997,False,False Positive
+47279,0,Healthy,0.9999877,1,Cancer,0.9999877,False,False Positive
+47835,0,Healthy,0.9999237,1,Cancer,0.9999237,False,False Positive
+47182,0,Healthy,0.995497,1,Cancer,0.995497,False,False Positive
+47556,1,Cancer,0.26179764,0,Healthy,0.73820233,False,False Negative
+47629,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+47520,1,Cancer,0.32600406,0,Healthy,0.673996,False,False Negative
+275992,0,Healthy,0.9139518,1,Cancer,0.9139518,False,False Positive
+275704,0,Healthy,0.009150722,0,Healthy,0.99084926,True,Correct
+47355,1,Cancer,0.9949563,1,Cancer,0.9949563,True,Correct
+47501,1,Cancer,0.99806815,1,Cancer,0.99806815,True,Correct
+48085,1,Cancer,0.999782,1,Cancer,0.999782,True,Correct
+275933,0,Healthy,0.0018203061,0,Healthy,0.9981797,True,Correct
+48028,1,Cancer,0.99914706,1,Cancer,0.99914706,True,Correct
+47273,1,Cancer,0.99656576,1,Cancer,0.99656576,True,Correct
+47210,1,Cancer,0.99554896,1,Cancer,0.99554896,True,Correct
+275714,0,Healthy,0.029077688,0,Healthy,0.9709223,True,Correct
+48029,1,Cancer,0.8124428,1,Cancer,0.8124428,True,Correct
+47332,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47806,1,Cancer,0.99991,1,Cancer,0.99991,True,Correct
+275574,0,Healthy,0.92212117,1,Cancer,0.92212117,False,False Positive
+48130,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47453,0,Healthy,0.9994618,1,Cancer,0.9994618,False,False Positive
+47318,0,Healthy,0.99972457,1,Cancer,0.99972457,False,False Positive
+47854,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47651,1,Cancer,0.9999275,1,Cancer,0.9999275,True,Correct
+48143,1,Cancer,0.99989295,1,Cancer,0.99989295,True,Correct
+47593,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+47442,1,Cancer,0.99971384,1,Cancer,0.99971384,True,Correct
+47925,1,Cancer,0.99925894,1,Cancer,0.99925894,True,Correct
+275526,0,Healthy,0.24330416,0,Healthy,0.75669587,True,Correct
+275895,0,Healthy,0.7157053,1,Cancer,0.7157053,False,False Positive
+48082,1,Cancer,0.99755543,1,Cancer,0.99755543,True,Correct
+47615,0,Healthy,0.9999989,1,Cancer,0.9999989,False,False Positive
+47552,1,Cancer,0.99999595,1,Cancer,0.99999595,True,Correct
+275164,0,Healthy,2.5653606e-05,0,Healthy,0.99997437,True,Correct
+275555,0,Healthy,0.16266029,0,Healthy,0.8373397,True,Correct
+275390,0,Healthy,0.27075648,0,Healthy,0.7292435,True,Correct
+47929,0,Healthy,0.99989104,1,Cancer,0.99989104,False,False Positive
+47229,1,Cancer,0.99972254,1,Cancer,0.99972254,True,Correct
+47935,1,Cancer,0.99996614,1,Cancer,0.99996614,True,Correct
+275430,0,Healthy,0.36351928,0,Healthy,0.6364807,True,Correct
+47503,1,Cancer,0.9999938,1,Cancer,0.9999938,True,Correct
+47668,0,Healthy,0.99993694,1,Cancer,0.99993694,False,False Positive
+47397,1,Cancer,0.9999981,1,Cancer,0.9999981,True,Correct
+47424,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+276132,0,Healthy,0.99623185,1,Cancer,0.99623185,False,False Positive
+47676,1,Cancer,0.03807798,0,Healthy,0.96192205,False,False Negative
+47775,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47552,0,Healthy,0.99999595,1,Cancer,0.99999595,False,False Positive
+47684,0,Healthy,0.8072603,1,Cancer,0.8072603,False,False Positive
+47886,1,Cancer,0.9999275,1,Cancer,0.9999275,True,Correct
+275718,0,Healthy,5.262593e-06,0,Healthy,0.99999475,True,Correct
+47616,1,Cancer,0.99849916,1,Cancer,0.99849916,True,Correct
+275149,0,Healthy,0.0032653038,0,Healthy,0.9967347,True,Correct
+276144,0,Healthy,0.006828507,0,Healthy,0.9931715,True,Correct
+47321,1,Cancer,0.9997336,1,Cancer,0.9997336,True,Correct
+275315,0,Healthy,0.0039017978,0,Healthy,0.9960982,True,Correct
+47495,1,Cancer,0.9816917,1,Cancer,0.9816917,True,Correct
+47503,0,Healthy,0.9999938,1,Cancer,0.9999938,False,False Positive
+48150,1,Cancer,0.9999927,1,Cancer,0.9999927,True,Correct
+276024,0,Healthy,0.14982612,0,Healthy,0.8501739,True,Correct
+47961,1,Cancer,0.9999987,1,Cancer,0.9999987,True,Correct
+47823,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+47194,1,Cancer,0.9747638,1,Cancer,0.9747638,True,Correct
+47570,1,Cancer,0.99989915,1,Cancer,0.99989915,True,Correct
+48137,1,Cancer,0.99996746,1,Cancer,0.99996746,True,Correct
+276100,0,Healthy,0.79920524,1,Cancer,0.79920524,False,False Positive
+276046,0,Healthy,0.9998381,1,Cancer,0.9998381,False,False Positive
+47681,1,Cancer,0.99993014,1,Cancer,0.99993014,True,Correct
+275832,0,Healthy,0.00013587352,0,Healthy,0.9998641,True,Correct
+275299,0,Healthy,0.99609333,1,Cancer,0.99609333,False,False Positive
+275566,0,Healthy,0.39251304,0,Healthy,0.60748696,True,Correct
+276049,0,Healthy,0.8600798,1,Cancer,0.8600798,False,False Positive
+48012,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48148,0,Healthy,0.9997459,1,Cancer,0.9997459,False,False Positive
+47990,1,Cancer,0.99997044,1,Cancer,0.99997044,True,Correct
+48102,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+275864,0,Healthy,0.0018210843,0,Healthy,0.9981789,True,Correct
+47360,1,Cancer,0.9999504,1,Cancer,0.9999504,True,Correct
+47894,1,Cancer,0.99995077,1,Cancer,0.99995077,True,Correct
+276000,0,Healthy,5.3637757e-07,0,Healthy,0.99999946,True,Correct
+47899,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47633,1,Cancer,0.9999937,1,Cancer,0.9999937,True,Correct
+47735,1,Cancer,0.99926966,1,Cancer,0.99926966,True,Correct
+47222,1,Cancer,0.9990625,1,Cancer,0.9990625,True,Correct
+47890,1,Cancer,0.9999933,1,Cancer,0.9999933,True,Correct
+47708,1,Cancer,0.9875293,1,Cancer,0.9875293,True,Correct
+47545,0,Healthy,0.99998176,1,Cancer,0.99998176,False,False Positive
+47347,1,Cancer,0.99997914,1,Cancer,0.99997914,True,Correct
+47413,1,Cancer,0.9999981,1,Cancer,0.9999981,True,Correct
+275377,0,Healthy,0.0033061597,0,Healthy,0.99669385,True,Correct
+48161,1,Cancer,0.8280797,1,Cancer,0.8280797,True,Correct
+47718,0,Healthy,0.9808873,1,Cancer,0.9808873,False,False Positive
+275331,0,Healthy,0.9173573,1,Cancer,0.9173573,False,False Positive
+47861,1,Cancer,0.9999995,1,Cancer,0.9999995,True,Correct
+275504,0,Healthy,0.0002260185,0,Healthy,0.999774,True,Correct
+47665,1,Cancer,0.96581304,1,Cancer,0.96581304,True,Correct
+47446,0,Healthy,0.98020226,1,Cancer,0.98020226,False,False Positive
+47615,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+275719,0,Healthy,0.16198628,0,Healthy,0.8380137,True,Correct
+47180,1,Cancer,0.99701715,1,Cancer,0.99701715,True,Correct
+47243,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+48157,1,Cancer,0.9924083,1,Cancer,0.9924083,True,Correct
+275944,0,Healthy,9.71352e-07,0,Healthy,0.99999905,True,Correct
+48003,1,Cancer,0.9998616,1,Cancer,0.9998616,True,Correct
+48108,0,Healthy,0.93688965,1,Cancer,0.93688965,False,False Positive
+47405,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+275995,0,Healthy,0.0047056535,0,Healthy,0.99529433,True,Correct
+47801,0,Healthy,0.99979097,1,Cancer,0.99979097,False,False Positive
+275395,0,Healthy,0.0040065586,0,Healthy,0.99599344,True,Correct
+47358,1,Cancer,0.9967049,1,Cancer,0.9967049,True,Correct
+47174,1,Cancer,0.9909894,1,Cancer,0.9909894,True,Correct
+48124,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+48093,1,Cancer,0.999913,1,Cancer,0.999913,True,Correct
+47171,0,Healthy,0.9999745,1,Cancer,0.9999745,False,False Positive
+47621,1,Cancer,0.9999682,1,Cancer,0.9999682,True,Correct
+47444,1,Cancer,0.99994075,1,Cancer,0.99994075,True,Correct
+276045,0,Healthy,0.24010918,0,Healthy,0.7598908,True,Correct
+47774,1,Cancer,0.999987,1,Cancer,0.999987,True,Correct
+47884,1,Cancer,0.99884593,1,Cancer,0.99884593,True,Correct
+47392,0,Healthy,0.99997056,1,Cancer,0.99997056,False,False Positive
+48003,0,Healthy,0.9998616,1,Cancer,0.9998616,False,False Positive
+48101,1,Cancer,0.9949456,1,Cancer,0.9949456,True,Correct
+47864,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275487,0,Healthy,0.36932868,0,Healthy,0.6306713,True,Correct
+47433,1,Cancer,0.9997695,1,Cancer,0.9997695,True,Correct
+275891,0,Healthy,0.18192942,0,Healthy,0.8180706,True,Correct
+47706,0,Healthy,0.99998033,1,Cancer,0.99998033,False,False Positive
+47620,1,Cancer,0.9978709,1,Cancer,0.9978709,True,Correct
+275257,0,Healthy,0.001864294,0,Healthy,0.9981357,True,Correct
+275540,0,Healthy,0.97923934,1,Cancer,0.97923934,False,False Positive
+47438,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47938,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47433,0,Healthy,0.9997695,1,Cancer,0.9997695,False,False Positive
+275316,0,Healthy,0.0023590995,0,Healthy,0.9976409,True,Correct
+48114,0,Healthy,0.99997616,1,Cancer,0.99997616,False,False Positive
+47750,0,Healthy,0.9961533,1,Cancer,0.9961533,False,False Positive
+47206,0,Healthy,0.9999988,1,Cancer,0.9999988,False,False Positive
+47880,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+276106,0,Healthy,0.32257348,0,Healthy,0.6774265,True,Correct
+47716,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47335,1,Cancer,0.99684674,1,Cancer,0.99684674,True,Correct
+275652,0,Healthy,0.007035467,0,Healthy,0.9929645,True,Correct
+275405,0,Healthy,0.9996309,1,Cancer,0.9996309,False,False Positive
+47656,1,Cancer,0.9999938,1,Cancer,0.9999938,True,Correct
+48152,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275158,0,Healthy,0.9985434,1,Cancer,0.9985434,False,False Positive
+275493,0,Healthy,0.99253887,1,Cancer,0.99253887,False,False Positive
+47203,1,Cancer,0.9819103,1,Cancer,0.9819103,True,Correct
+275794,0,Healthy,0.5759201,1,Cancer,0.5759201,False,False Positive
+275279,0,Healthy,0.64429635,1,Cancer,0.64429635,False,False Positive
+47329,1,Cancer,0.9797497,1,Cancer,0.9797497,True,Correct
+47538,0,Healthy,0.96412915,1,Cancer,0.96412915,False,False Positive
+47568,1,Cancer,0.9991757,1,Cancer,0.9991757,True,Correct
+47498,1,Cancer,0.99999857,1,Cancer,0.99999857,True,Correct
+47604,1,Cancer,0.99001163,1,Cancer,0.99001163,True,Correct
+47296,1,Cancer,0.9998505,1,Cancer,0.9998505,True,Correct
+47565,1,Cancer,0.9999982,1,Cancer,0.9999982,True,Correct
+275270,0,Healthy,2.5095687e-06,0,Healthy,0.9999975,True,Correct
+47947,0,Healthy,0.99999774,1,Cancer,0.99999774,False,False Positive
+47596,0,Healthy,0.9999671,1,Cancer,0.9999671,False,False Positive
+47900,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47767,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47744,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47291,0,Healthy,0.9563845,1,Cancer,0.9563845,False,False Positive
+47778,1,Cancer,0.99999857,1,Cancer,0.99999857,True,Correct
+47496,0,Healthy,0.9988305,1,Cancer,0.9988305,False,False Positive
+47550,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47440,1,Cancer,0.99979514,1,Cancer,0.99979514,True,Correct
+275703,0,Healthy,0.008020594,0,Healthy,0.9919794,True,Correct
+47876,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47546,0,Healthy,0.99999964,1,Cancer,0.99999964,False,False Positive
+275779,0,Healthy,0.0031517718,0,Healthy,0.9968482,True,Correct
+48065,0,Healthy,0.9999794,1,Cancer,0.9999794,False,False Positive
+47245,1,Cancer,0.9999937,1,Cancer,0.9999937,True,Correct
+275215,0,Healthy,0.04783997,0,Healthy,0.95216,True,Correct
+48041,1,Cancer,0.999488,1,Cancer,0.999488,True,Correct
+47865,0,Healthy,0.75690484,1,Cancer,0.75690484,False,False Positive
+48028,0,Healthy,0.99914706,1,Cancer,0.99914706,False,False Positive
+48092,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48060,0,Healthy,0.99999917,1,Cancer,0.99999917,False,False Positive
+47956,1,Cancer,0.9999223,1,Cancer,0.9999223,True,Correct
+47543,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47530,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+47642,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+48115,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+276140,0,Healthy,0.00033486515,0,Healthy,0.99966514,True,Correct
+47895,1,Cancer,0.9999733,1,Cancer,0.9999733,True,Correct
+276119,0,Healthy,0.55077,1,Cancer,0.55077,False,False Positive
+47795,1,Cancer,0.9999964,1,Cancer,0.9999964,True,Correct
+275194,0,Healthy,0.9977308,1,Cancer,0.9977308,False,False Positive
+47920,1,Cancer,0.99997365,1,Cancer,0.99997365,True,Correct
+48092,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47171,1,Cancer,0.9999745,1,Cancer,0.9999745,True,Correct
+47759,1,Cancer,0.9995813,1,Cancer,0.9995813,True,Correct
+47958,0,Healthy,0.9999758,1,Cancer,0.9999758,False,False Positive
+47279,1,Cancer,0.9999877,1,Cancer,0.9999877,True,Correct
+47942,0,Healthy,0.001612831,0,Healthy,0.99838716,True,Correct
+48093,0,Healthy,0.999913,1,Cancer,0.999913,False,False Positive
+47524,1,Cancer,0.9998815,1,Cancer,0.9998815,True,Correct
+47652,1,Cancer,0.99237037,1,Cancer,0.99237037,True,Correct
+275824,0,Healthy,0.98954284,1,Cancer,0.98954284,False,False Positive
+47602,1,Cancer,0.99923134,1,Cancer,0.99923134,True,Correct
+275803,0,Healthy,0.988074,1,Cancer,0.988074,False,False Positive
+47191,1,Cancer,0.9995425,1,Cancer,0.9995425,True,Correct
+275867,0,Healthy,0.7503136,1,Cancer,0.7503136,False,False Positive
+47756,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48113,1,Cancer,0.99999785,1,Cancer,0.99999785,True,Correct
+48034,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47514,0,Healthy,0.9999881,1,Cancer,0.9999881,False,False Positive
+48061,1,Cancer,0.9999727,1,Cancer,0.9999727,True,Correct
+275327,0,Healthy,0.99711883,1,Cancer,0.99711883,False,False Positive
+47249,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+276052,0,Healthy,0.038465973,0,Healthy,0.961534,True,Correct
+47933,1,Cancer,0.9997322,1,Cancer,0.9997322,True,Correct
+47811,1,Cancer,0.9999995,1,Cancer,0.9999995,True,Correct
+47233,0,Healthy,0.9999964,1,Cancer,0.9999964,False,False Positive
+275696,0,Healthy,0.7993632,1,Cancer,0.7993632,False,False Positive
+47892,0,Healthy,0.9998318,1,Cancer,0.9998318,False,False Positive
+275685,0,Healthy,0.22621335,0,Healthy,0.77378666,True,Correct
+47900,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47299,1,Cancer,0.9951434,1,Cancer,0.9951434,True,Correct
+47483,0,Healthy,0.99780065,1,Cancer,0.99780065,False,False Positive
+47604,0,Healthy,0.99001163,1,Cancer,0.99001163,False,False Positive
+276011,0,Healthy,0.00015366917,0,Healthy,0.99984634,True,Correct
+275536,0,Healthy,7.2094044e-05,0,Healthy,0.9999279,True,Correct
+47357,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+47737,1,Cancer,0.9737743,1,Cancer,0.9737743,True,Correct
+47278,1,Cancer,0.9999982,1,Cancer,0.9999982,True,Correct
+48020,1,Cancer,0.9999963,1,Cancer,0.9999963,True,Correct
+47991,1,Cancer,0.9996884,1,Cancer,0.9996884,True,Correct
+276059,0,Healthy,0.9998585,1,Cancer,0.9998585,False,False Positive
+47514,1,Cancer,0.9999881,1,Cancer,0.9999881,True,Correct
+275421,0,Healthy,0.31871513,0,Healthy,0.6812849,True,Correct
+276030,0,Healthy,0.7950048,1,Cancer,0.7950048,False,False Positive
+47658,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+275740,0,Healthy,0.027358403,0,Healthy,0.9726416,True,Correct
+47205,1,Cancer,0.9999702,1,Cancer,0.9999702,True,Correct
+47684,1,Cancer,0.8072603,1,Cancer,0.8072603,True,Correct
+47361,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47339,1,Cancer,0.109358236,0,Healthy,0.89064175,False,False Negative
+47267,1,Cancer,0.99999774,1,Cancer,0.99999774,True,Correct
+275379,0,Healthy,0.11558999,0,Healthy,0.88441,True,Correct
+47821,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47968,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47474,1,Cancer,0.9995315,1,Cancer,0.9995315,True,Correct
+47443,1,Cancer,0.98824173,1,Cancer,0.98824173,True,Correct
+47458,0,Healthy,0.9999144,1,Cancer,0.9999144,False,False Positive
+275366,0,Healthy,0.22719839,0,Healthy,0.77280164,True,Correct
+276037,0,Healthy,0.97163796,1,Cancer,0.97163796,False,False Positive
+275318,0,Healthy,0.009374524,0,Healthy,0.9906255,True,Correct
+47327,1,Cancer,0.99992263,1,Cancer,0.99992263,True,Correct
+275988,0,Healthy,0.9181816,1,Cancer,0.9181816,False,False Positive
+47232,1,Cancer,0.99999356,1,Cancer,0.99999356,True,Correct
+47292,1,Cancer,0.99961287,1,Cancer,0.99961287,True,Correct
+48077,1,Cancer,0.9991549,1,Cancer,0.9991549,True,Correct
+47971,1,Cancer,0.9999025,1,Cancer,0.9999025,True,Correct
+47416,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47755,0,Healthy,0.9999994,1,Cancer,0.9999994,False,False Positive
+47781,1,Cancer,0.9999894,1,Cancer,0.9999894,True,Correct
+47340,1,Cancer,0.9999584,1,Cancer,0.9999584,True,Correct
+47488,1,Cancer,0.99873644,1,Cancer,0.99873644,True,Correct
+276086,0,Healthy,0.9999925,1,Cancer,0.9999925,False,False Positive
+47789,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48047,1,Cancer,0.9999682,1,Cancer,0.9999682,True,Correct
+47253,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47334,1,Cancer,0.99984443,1,Cancer,0.99984443,True,Correct
+48091,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47633,0,Healthy,0.9999937,1,Cancer,0.9999937,False,False Positive
+48159,1,Cancer,0.9999925,1,Cancer,0.9999925,True,Correct
+48130,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47785,1,Cancer,0.99980205,1,Cancer,0.99980205,True,Correct
+276031,0,Healthy,0.99606377,1,Cancer,0.99606377,False,False Positive
+275238,0,Healthy,0.99996686,1,Cancer,0.99996686,False,False Positive
+47517,1,Cancer,0.9998845,1,Cancer,0.9998845,True,Correct
+47621,0,Healthy,0.9999682,1,Cancer,0.9999682,False,False Positive
+47575,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+276043,0,Healthy,0.9826985,1,Cancer,0.9826985,False,False Positive
+47323,1,Cancer,0.9998186,1,Cancer,0.9998186,True,Correct
+276130,0,Healthy,0.35125545,0,Healthy,0.6487446,True,Correct
+47622,1,Cancer,0.9253474,1,Cancer,0.9253474,True,Correct
+47274,0,Healthy,0.99933976,1,Cancer,0.99933976,False,False Positive
+275748,0,Healthy,0.014532818,0,Healthy,0.9854672,True,Correct
+47573,1,Cancer,0.999997,1,Cancer,0.999997,True,Correct
+275332,0,Healthy,0.24365288,0,Healthy,0.7563471,True,Correct
+47672,0,Healthy,0.9969459,1,Cancer,0.9969459,False,False Positive
+275515,0,Healthy,0.14865364,0,Healthy,0.8513464,True,Correct
+47844,0,Healthy,0.9968431,1,Cancer,0.9968431,False,False Positive
+275370,0,Healthy,0.00024014435,0,Healthy,0.99975985,True,Correct
+47324,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47733,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+47687,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+47454,0,Healthy,0.9988059,1,Cancer,0.9988059,False,False Positive
+47377,1,Cancer,0.99992394,1,Cancer,0.99992394,True,Correct
+276026,0,Healthy,0.6504794,1,Cancer,0.6504794,False,False Positive
+47223,1,Cancer,0.999926,1,Cancer,0.999926,True,Correct
+47969,1,Cancer,0.98763216,1,Cancer,0.98763216,True,Correct
+47341,1,Cancer,0.99997234,1,Cancer,0.99997234,True,Correct
+47594,0,Healthy,0.65860003,1,Cancer,0.65860003,False,False Positive
+48151,1,Cancer,0.9998086,1,Cancer,0.9998086,True,Correct
+47664,1,Cancer,0.9862185,1,Cancer,0.9862185,True,Correct
+275802,0,Healthy,0.3122826,0,Healthy,0.68771744,True,Correct
+47340,0,Healthy,0.9999584,1,Cancer,0.9999584,False,False Positive
+275190,0,Healthy,0.97371936,1,Cancer,0.97371936,False,False Positive
+47365,1,Cancer,0.9940048,1,Cancer,0.9940048,True,Correct
+47666,1,Cancer,0.9999398,1,Cancer,0.9999398,True,Correct
+275517,0,Healthy,1.7173002e-06,0,Healthy,0.9999983,True,Correct
+48051,0,Healthy,0.9963301,1,Cancer,0.9963301,False,False Positive
+48023,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47294,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47395,0,Healthy,0.9999813,1,Cancer,0.9999813,False,False Positive
+47766,1,Cancer,0.9996989,1,Cancer,0.9996989,True,Correct
+47499,0,Healthy,0.9999354,1,Cancer,0.9999354,False,False Positive
+47792,1,Cancer,0.99999726,1,Cancer,0.99999726,True,Correct
+48141,0,Healthy,0.9997867,1,Cancer,0.9997867,False,False Positive
+47802,1,Cancer,0.99999344,1,Cancer,0.99999344,True,Correct
+48004,1,Cancer,0.9951892,1,Cancer,0.9951892,True,Correct
+275440,0,Healthy,0.97779024,1,Cancer,0.97779024,False,False Positive
+47939,1,Cancer,0.99945885,1,Cancer,0.99945885,True,Correct
+276070,0,Healthy,0.0033102601,0,Healthy,0.99668974,True,Correct
+275567,0,Healthy,0.49842533,0,Healthy,0.50157464,True,Correct
+47443,0,Healthy,0.98824173,1,Cancer,0.98824173,False,False Positive
+275580,0,Healthy,0.92518204,1,Cancer,0.92518204,False,False Positive
+47224,1,Cancer,0.6438788,1,Cancer,0.6438788,True,Correct
+47962,1,Cancer,0.9999987,1,Cancer,0.9999987,True,Correct
+47223,0,Healthy,0.999926,1,Cancer,0.999926,False,False Positive
+48047,0,Healthy,0.9999682,1,Cancer,0.9999682,False,False Positive
+47693,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47334,0,Healthy,0.99984443,1,Cancer,0.99984443,False,False Positive
+275333,0,Healthy,0.096962765,0,Healthy,0.90303725,True,Correct
+47890,0,Healthy,0.9999933,1,Cancer,0.9999933,False,False Positive
+47948,1,Cancer,0.9999995,1,Cancer,0.9999995,True,Correct
+47196,0,Healthy,0.99892384,1,Cancer,0.99892384,False,False Positive
+275525,0,Healthy,0.19329254,0,Healthy,0.80670744,True,Correct
+47472,1,Cancer,0.9998745,1,Cancer,0.9998745,True,Correct
+275282,0,Healthy,0.0017101233,0,Healthy,0.9982899,True,Correct
+48098,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275497,0,Healthy,0.89722735,1,Cancer,0.89722735,False,False Positive
+47348,0,Healthy,0.9999981,1,Cancer,0.9999981,False,False Positive
+275595,0,Healthy,0.26238415,0,Healthy,0.7376158,True,Correct
+48076,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+47402,1,Cancer,0.99999845,1,Cancer,0.99999845,True,Correct
+47895,0,Healthy,0.9999733,1,Cancer,0.9999733,False,False Positive
+47581,1,Cancer,0.9997253,1,Cancer,0.9997253,True,Correct
+47603,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275407,0,Healthy,0.9662663,1,Cancer,0.9662663,False,False Positive
+47961,0,Healthy,0.9999987,1,Cancer,0.9999987,False,False Positive
+47250,1,Cancer,0.9999914,1,Cancer,0.9999914,True,Correct
+47871,1,Cancer,0.9999665,1,Cancer,0.9999665,True,Correct
+275410,0,Healthy,0.025154544,0,Healthy,0.97484547,True,Correct
+47965,1,Cancer,0.9998394,1,Cancer,0.9998394,True,Correct
+47898,1,Cancer,0.99194276,1,Cancer,0.99194276,True,Correct
+47441,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+275384,0,Healthy,5.8787875e-05,0,Healthy,0.99994123,True,Correct
+47909,1,Cancer,0.9999939,1,Cancer,0.9999939,True,Correct
+47972,1,Cancer,0.999998,1,Cancer,0.999998,True,Correct
+47507,1,Cancer,0.9943469,1,Cancer,0.9943469,True,Correct
+48059,1,Cancer,0.99939966,1,Cancer,0.99939966,True,Correct
+48055,1,Cancer,0.9999981,1,Cancer,0.9999981,True,Correct
+275610,0,Healthy,1.1493566e-07,0,Healthy,0.9999999,True,Correct
+275436,0,Healthy,0.46851566,0,Healthy,0.53148437,True,Correct
+47372,1,Cancer,0.99999,1,Cancer,0.99999,True,Correct
+48056,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47482,1,Cancer,0.9404676,1,Cancer,0.9404676,True,Correct
+276083,0,Healthy,0.99810576,1,Cancer,0.99810576,False,False Positive
+47953,1,Cancer,0.9940951,1,Cancer,0.9940951,True,Correct
+275342,0,Healthy,0.01131488,0,Healthy,0.98868513,True,Correct
+47732,0,Healthy,0.96796566,1,Cancer,0.96796566,False,False Positive
+47325,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+47725,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275600,0,Healthy,0.36144444,0,Healthy,0.6385555,True,Correct
+275397,0,Healthy,0.004806563,0,Healthy,0.9951934,True,Correct
+47339,0,Healthy,0.109358236,0,Healthy,0.89064175,True,Correct
+47302,0,Healthy,0.9999521,1,Cancer,0.9999521,False,False Positive
+47952,0,Healthy,0.9999968,1,Cancer,0.9999968,False,False Positive
+47975,1,Cancer,0.99999833,1,Cancer,0.99999833,True,Correct
+47619,0,Healthy,0.9999906,1,Cancer,0.9999906,False,False Positive
+47924,1,Cancer,0.9903762,1,Cancer,0.9903762,True,Correct
+47300,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47373,0,Healthy,0.99999905,1,Cancer,0.99999905,False,False Positive
+47549,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48165,0,Healthy,0.9984157,1,Cancer,0.9984157,False,False Positive
+47650,1,Cancer,0.99994254,1,Cancer,0.99994254,True,Correct
+48071,0,Healthy,0.9998148,1,Cancer,0.9998148,False,False Positive
+47920,0,Healthy,0.99997365,1,Cancer,0.99997365,False,False Positive
+47510,1,Cancer,0.9999093,1,Cancer,0.9999093,True,Correct
+47916,0,Healthy,0.99871767,1,Cancer,0.99871767,False,False Positive
+47869,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+47913,1,Cancer,0.6655843,1,Cancer,0.6655843,True,Correct
+48116,1,Cancer,0.99939525,1,Cancer,0.99939525,True,Correct
+48168,1,Cancer,0.99997616,1,Cancer,0.99997616,True,Correct
+47966,0,Healthy,0.9978206,1,Cancer,0.9978206,False,False Positive
+47585,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275826,0,Healthy,0.00231821,0,Healthy,0.9976818,True,Correct
+47567,0,Healthy,0.64765924,1,Cancer,0.64765924,False,False Positive
+47785,0,Healthy,0.99980205,1,Cancer,0.99980205,False,False Positive
+48075,1,Cancer,0.99999535,1,Cancer,0.99999535,True,Correct
+47414,1,Cancer,0.99997294,1,Cancer,0.99997294,True,Correct
+47337,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48035,0,Healthy,0.04743811,0,Healthy,0.9525619,True,Correct
+275535,0,Healthy,0.959609,1,Cancer,0.959609,False,False Positive
+47323,0,Healthy,0.9998186,1,Cancer,0.9998186,False,False Positive
+47602,0,Healthy,0.99923134,1,Cancer,0.99923134,False,False Positive
+47442,0,Healthy,0.99971384,1,Cancer,0.99971384,False,False Positive
+47393,1,Cancer,0.9983766,1,Cancer,0.9983766,True,Correct
+275982,0,Healthy,0.0001539882,0,Healthy,0.99984604,True,Correct
+47280,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+276047,0,Healthy,0.00035300505,0,Healthy,0.999647,True,Correct
+47542,1,Cancer,0.99998474,1,Cancer,0.99998474,True,Correct
+47910,0,Healthy,0.9999964,1,Cancer,0.9999964,False,False Positive
+47974,1,Cancer,0.9997279,1,Cancer,0.9997279,True,Correct
+47880,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47770,0,Healthy,0.999998,1,Cancer,0.999998,False,False Positive
+276032,0,Healthy,0.5019452,1,Cancer,0.5019452,False,False Positive
+275273,0,Healthy,0.9882173,1,Cancer,0.9882173,False,False Positive
+48134,1,Cancer,0.9969035,1,Cancer,0.9969035,True,Correct
+47460,0,Healthy,0.99998987,1,Cancer,0.99998987,False,False Positive
+47248,1,Cancer,0.99998796,1,Cancer,0.99998796,True,Correct
+47330,0,Healthy,0.942907,1,Cancer,0.942907,False,False Positive
+275813,0,Healthy,0.116267875,0,Healthy,0.88373214,True,Correct
+47312,1,Cancer,0.99999297,1,Cancer,0.99999297,True,Correct
+47387,0,Healthy,0.99999213,1,Cancer,0.99999213,False,False Positive
+275699,0,Healthy,0.0002623296,0,Healthy,0.9997377,True,Correct
+275528,0,Healthy,0.9693588,1,Cancer,0.9693588,False,False Positive
+47571,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275276,0,Healthy,0.6962848,1,Cancer,0.6962848,False,False Positive
+47964,1,Cancer,0.9997429,1,Cancer,0.9997429,True,Correct
+47864,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47993,1,Cancer,0.999843,1,Cancer,0.999843,True,Correct
+47285,0,Healthy,0.99566877,1,Cancer,0.99566877,False,False Positive
+47636,1,Cancer,0.9999056,1,Cancer,0.9999056,True,Correct
+48061,0,Healthy,0.9999727,1,Cancer,0.9999727,False,False Positive
+47247,0,Healthy,0.99999666,1,Cancer,0.99999666,False,False Positive
+47904,0,Healthy,0.99934715,1,Cancer,0.99934715,False,False Positive
+47292,0,Healthy,0.99961287,1,Cancer,0.99961287,False,False Positive
+47418,1,Cancer,0.9996656,1,Cancer,0.9996656,True,Correct
+47229,0,Healthy,0.99972254,1,Cancer,0.99972254,False,False Positive
+47344,1,Cancer,0.998836,1,Cancer,0.998836,True,Correct
+47436,1,Cancer,0.93258464,1,Cancer,0.93258464,True,Correct
+48094,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+276121,0,Healthy,0.8547608,1,Cancer,0.8547608,False,False Positive
+48122,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275207,0,Healthy,0.113750674,0,Healthy,0.8862493,True,Correct
+47515,1,Cancer,0.9990815,1,Cancer,0.9990815,True,Correct
+47200,1,Cancer,0.9566045,1,Cancer,0.9566045,True,Correct
+48069,0,Healthy,0.9998933,1,Cancer,0.9998933,False,False Positive
+275701,0,Healthy,0.13558714,0,Healthy,0.86441284,True,Correct
+275185,0,Healthy,0.00011098954,0,Healthy,0.999889,True,Correct
+275571,0,Healthy,7.084261e-06,0,Healthy,0.9999929,True,Correct
+48156,1,Cancer,0.99997175,1,Cancer,0.99997175,True,Correct
+47713,1,Cancer,0.99990976,1,Cancer,0.99990976,True,Correct
+47949,1,Cancer,0.9999919,1,Cancer,0.9999919,True,Correct
+275694,0,Healthy,0.00018235287,0,Healthy,0.99981767,True,Correct
+48054,1,Cancer,0.9999114,1,Cancer,0.9999114,True,Correct
+48025,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47773,1,Cancer,0.9999043,1,Cancer,0.9999043,True,Correct
+275481,0,Healthy,0.9914795,1,Cancer,0.9914795,False,False Positive
+275997,0,Healthy,0.06110151,0,Healthy,0.9388985,True,Correct
+47934,1,Cancer,0.99998415,1,Cancer,0.99998415,True,Correct
+47660,1,Cancer,0.587116,1,Cancer,0.587116,True,Correct
+275892,0,Healthy,0.996298,1,Cancer,0.996298,False,False Positive
+47758,1,Cancer,0.99537057,1,Cancer,0.99537057,True,Correct
+47977,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47282,0,Healthy,0.9611507,1,Cancer,0.9611507,False,False Positive
+275949,0,Healthy,0.97485936,1,Cancer,0.97485936,False,False Positive
+48153,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47912,0,Healthy,0.9905586,1,Cancer,0.9905586,False,False Positive
+47311,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+275263,0,Healthy,0.016319402,0,Healthy,0.9836806,True,Correct
+47358,0,Healthy,0.9967049,1,Cancer,0.9967049,False,False Positive
+275738,0,Healthy,0.9990828,1,Cancer,0.9990828,False,False Positive
+47437,1,Cancer,0.9999838,1,Cancer,0.9999838,True,Correct
+48149,0,Healthy,0.9992673,1,Cancer,0.9992673,False,False Positive
+47963,1,Cancer,0.99786216,1,Cancer,0.99786216,True,Correct
+47570,0,Healthy,0.99989915,1,Cancer,0.99989915,False,False Positive
+47258,0,Healthy,0.9999989,1,Cancer,0.9999989,False,False Positive
+47786,1,Cancer,0.9735487,1,Cancer,0.9735487,True,Correct
+47915,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47782,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47537,1,Cancer,0.9999976,1,Cancer,0.9999976,True,Correct
+47733,0,Healthy,0.9999993,1,Cancer,0.9999993,False,False Positive
+275356,0,Healthy,0.0053359773,0,Healthy,0.994664,True,Correct
+47627,1,Cancer,0.98102784,1,Cancer,0.98102784,True,Correct
+275244,0,Healthy,0.01192848,0,Healthy,0.9880715,True,Correct
+47918,0,Healthy,0.99999976,1,Cancer,0.99999976,False,False Positive
+47981,0,Healthy,0.9997315,1,Cancer,0.9997315,False,False Positive
+47374,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+47275,1,Cancer,0.99995816,1,Cancer,0.99995816,True,Correct
+47757,1,Cancer,0.15597044,0,Healthy,0.84402955,False,False Negative
+47301,1,Cancer,0.99977595,1,Cancer,0.99977595,True,Correct
+47988,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47774,0,Healthy,0.999987,1,Cancer,0.999987,False,False Positive
+47907,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+48131,1,Cancer,0.99255025,1,Cancer,0.99255025,True,Correct
+47489,0,Healthy,0.99999964,1,Cancer,0.99999964,False,False Positive
+48045,0,Healthy,0.99999964,1,Cancer,0.99999964,False,False Positive
+275381,0,Healthy,0.8066138,1,Cancer,0.8066138,False,False Positive
+47363,1,Cancer,0.9999447,1,Cancer,0.9999447,True,Correct
+275683,0,Healthy,0.083765894,0,Healthy,0.91623414,True,Correct
+47378,1,Cancer,0.999948,1,Cancer,0.999948,True,Correct
+276089,0,Healthy,0.9998795,1,Cancer,0.9998795,False,False Positive
+47640,1,Cancer,0.9986878,1,Cancer,0.9986878,True,Correct
+47313,1,Cancer,0.9999976,1,Cancer,0.9999976,True,Correct
+47584,0,Healthy,0.986636,1,Cancer,0.986636,False,False Positive
+47857,0,Healthy,0.99999917,1,Cancer,0.99999917,False,False Positive
+47511,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47628,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47881,1,Cancer,0.9987105,1,Cancer,0.9987105,True,Correct
+47276,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48152,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47227,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48101,0,Healthy,0.9949456,1,Cancer,0.9949456,False,False Positive
+47978,1,Cancer,0.9976897,1,Cancer,0.9976897,True,Correct
+47944,1,Cancer,0.9999727,1,Cancer,0.9999727,True,Correct
+47618,1,Cancer,0.9999988,1,Cancer,0.9999988,True,Correct
+47788,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47790,1,Cancer,0.8483436,1,Cancer,0.8483436,True,Correct
+47872,0,Healthy,0.9999993,1,Cancer,0.9999993,False,False Positive
+275180,0,Healthy,0.014511938,0,Healthy,0.98548806,True,Correct
+275840,0,Healthy,0.036199164,0,Healthy,0.96380085,True,Correct
+47922,1,Cancer,0.9999893,1,Cancer,0.9999893,True,Correct
+47170,1,Cancer,0.98857343,1,Cancer,0.98857343,True,Correct
+47557,1,Cancer,0.9990237,1,Cancer,0.9990237,True,Correct
+275749,0,Healthy,0.0041646184,0,Healthy,0.99583536,True,Correct
+48166,0,Healthy,0.99999964,1,Cancer,0.99999964,False,False Positive
+47173,0,Healthy,0.968671,1,Cancer,0.968671,False,False Positive
+47605,0,Healthy,0.99459654,1,Cancer,0.99459654,False,False Positive
+275277,0,Healthy,0.12181727,0,Healthy,0.8781827,True,Correct
+48138,1,Cancer,0.99977106,1,Cancer,0.99977106,True,Correct
+47278,0,Healthy,0.9999982,1,Cancer,0.9999982,False,False Positive
+47400,0,Healthy,0.9992574,1,Cancer,0.9992574,False,False Positive
+275429,0,Healthy,0.8794955,1,Cancer,0.8794955,False,False Positive
+275639,0,Healthy,0.99742377,1,Cancer,0.99742377,False,False Positive
+276027,0,Healthy,0.040114045,0,Healthy,0.95988595,True,Correct
+47265,1,Cancer,0.99999774,1,Cancer,0.99999774,True,Correct
+275297,0,Healthy,0.0004816474,0,Healthy,0.99951833,True,Correct
+47186,0,Healthy,0.99965405,1,Cancer,0.99965405,False,False Positive
+47760,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+47172,1,Cancer,0.99880064,1,Cancer,0.99880064,True,Correct
+48107,1,Cancer,0.9912982,1,Cancer,0.9912982,True,Correct
+47652,0,Healthy,0.99237037,1,Cancer,0.99237037,False,False Positive
+48109,1,Cancer,0.5447838,1,Cancer,0.5447838,True,Correct
+276005,0,Healthy,0.110299185,0,Healthy,0.88970083,True,Correct
+276092,0,Healthy,0.99820423,1,Cancer,0.99820423,False,False Positive
+47779,0,Healthy,0.99996424,1,Cancer,0.99996424,False,False Positive
+47957,1,Cancer,0.99997044,1,Cancer,0.99997044,True,Correct
+47927,0,Healthy,0.9991135,1,Cancer,0.9991135,False,False Positive
+275178,0,Healthy,0.00042235685,0,Healthy,0.99957764,True,Correct
+276139,0,Healthy,0.010174431,0,Healthy,0.98982555,True,Correct
+47870,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47544,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47959,1,Cancer,0.999933,1,Cancer,0.999933,True,Correct
+47931,1,Cancer,0.9984754,1,Cancer,0.9984754,True,Correct
+47639,0,Healthy,0.99998367,1,Cancer,0.99998367,False,False Positive
+47256,1,Cancer,0.999998,1,Cancer,0.999998,True,Correct
+275501,0,Healthy,0.6104202,1,Cancer,0.6104202,False,False Positive
+275809,0,Healthy,0.38987923,0,Healthy,0.6101208,True,Correct
+275177,0,Healthy,0.22185011,0,Healthy,0.7781499,True,Correct
+47249,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47463,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48019,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275885,0,Healthy,0.99900347,1,Cancer,0.99900347,False,False Positive
+47238,1,Cancer,0.999998,1,Cancer,0.999998,True,Correct
+48133,0,Healthy,0.99992263,1,Cancer,0.99992263,False,False Positive
+48142,0,Healthy,0.99992025,1,Cancer,0.99992025,False,False Positive
+48039,1,Cancer,0.99850875,1,Cancer,0.99850875,True,Correct
+47407,0,Healthy,0.9999962,1,Cancer,0.9999962,False,False Positive
+48110,0,Healthy,0.99998426,1,Cancer,0.99998426,False,False Positive
+275344,0,Healthy,0.013615276,0,Healthy,0.98638475,True,Correct
+47360,0,Healthy,0.9999504,1,Cancer,0.9999504,False,False Positive
+47589,0,Healthy,0.99091107,1,Cancer,0.99091107,False,False Positive
+47598,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47886,0,Healthy,0.9999275,1,Cancer,0.9999275,False,False Positive
+47568,0,Healthy,0.9991757,1,Cancer,0.9991757,False,False Positive
+47481,1,Cancer,0.99741423,1,Cancer,0.99741423,True,Correct
+47867,1,Cancer,0.9999932,1,Cancer,0.9999932,True,Correct
+47419,1,Cancer,0.9942127,1,Cancer,0.9942127,True,Correct
+47736,1,Cancer,0.9999968,1,Cancer,0.9999968,True,Correct
+47473,1,Cancer,0.9836902,1,Cancer,0.9836902,True,Correct
+47607,1,Cancer,0.99997497,1,Cancer,0.99997497,True,Correct
+47376,1,Cancer,0.99998796,1,Cancer,0.99998796,True,Correct
+47705,1,Cancer,0.03272427,0,Healthy,0.96727574,False,False Negative
+47234,1,Cancer,0.99257225,1,Cancer,0.99257225,True,Correct
+47608,0,Healthy,0.9999989,1,Cancer,0.9999989,False,False Positive
+275534,0,Healthy,0.0007353892,0,Healthy,0.9992646,True,Correct
+48164,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47724,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47945,1,Cancer,0.9999995,1,Cancer,0.9999995,True,Correct
+47184,0,Healthy,0.7977423,1,Cancer,0.7977423,False,False Positive
+47518,1,Cancer,0.9998907,1,Cancer,0.9998907,True,Correct
+47810,1,Cancer,0.98402435,1,Cancer,0.98402435,True,Correct
+47955,1,Cancer,0.99979204,1,Cancer,0.99979204,True,Correct
+47933,0,Healthy,0.9997322,1,Cancer,0.9997322,False,False Positive
+275581,0,Healthy,0.05081399,0,Healthy,0.949186,True,Correct
+275658,0,Healthy,0.00041248085,0,Healthy,0.99958754,True,Correct
+47214,0,Healthy,0.999196,1,Cancer,0.999196,False,False Positive
+275248,0,Healthy,0.82761663,1,Cancer,0.82761663,False,False Positive
+47398,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47848,1,Cancer,0.9993073,1,Cancer,0.9993073,True,Correct
+276080,0,Healthy,0.9881705,1,Cancer,0.9881705,False,False Positive
+275326,0,Healthy,0.45668215,0,Healthy,0.54331785,True,Correct
+48049,1,Cancer,0.99935704,1,Cancer,0.99935704,True,Correct
+47370,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+47798,1,Cancer,0.99997663,1,Cancer,0.99997663,True,Correct
+47826,0,Healthy,0.42823997,0,Healthy,0.57176006,True,Correct
+47469,1,Cancer,0.9358779,1,Cancer,0.9358779,True,Correct
+48043,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+47475,0,Healthy,0.999995,1,Cancer,0.999995,False,False Positive
+48002,1,Cancer,0.9112017,1,Cancer,0.9112017,True,Correct
+276028,0,Healthy,0.3179465,0,Healthy,0.6820535,True,Correct
+47836,1,Cancer,0.9998698,1,Cancer,0.9998698,True,Correct
+47244,1,Cancer,0.99982905,1,Cancer,0.99982905,True,Correct
+48111,1,Cancer,0.99986315,1,Cancer,0.99986315,True,Correct
+275848,0,Healthy,0.18102498,0,Healthy,0.81897503,True,Correct
+275876,0,Healthy,0.9578125,1,Cancer,0.9578125,False,False Positive
+275241,0,Healthy,0.026941234,0,Healthy,0.97305876,True,Correct
+47202,1,Cancer,0.9999902,1,Cancer,0.9999902,True,Correct
+47753,0,Healthy,0.9816073,1,Cancer,0.9816073,False,False Positive
+47902,1,Cancer,0.9999789,1,Cancer,0.9999789,True,Correct
+47492,1,Cancer,0.45743722,0,Healthy,0.5425628,False,False Negative
+275280,0,Healthy,0.0033419172,0,Healthy,0.9966581,True,Correct
+275385,0,Healthy,4.302287e-05,0,Healthy,0.99995697,True,Correct
+275676,0,Healthy,0.86719286,1,Cancer,0.86719286,False,False Positive
+47768,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47824,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275648,0,Healthy,0.9647322,1,Cancer,0.9647322,False,False Positive
+48158,1,Cancer,0.9999957,1,Cancer,0.9999957,True,Correct
+48078,1,Cancer,0.9999988,1,Cancer,0.9999988,True,Correct
+275831,0,Healthy,0.40963855,0,Healthy,0.5903615,True,Correct
+275170,0,Healthy,0.07243608,0,Healthy,0.9275639,True,Correct
+47617,1,Cancer,0.99999547,1,Cancer,0.99999547,True,Correct
+275688,0,Healthy,0.037033245,0,Healthy,0.96296674,True,Correct
+48017,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+276103,0,Healthy,0.051113777,0,Healthy,0.9488862,True,Correct
+47655,0,Healthy,0.9970311,1,Cancer,0.9970311,False,False Positive
+47973,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+48147,1,Cancer,0.9999603,1,Cancer,0.9999603,True,Correct
+47936,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47522,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47299,0,Healthy,0.9951434,1,Cancer,0.9951434,False,False Positive
+47241,0,Healthy,0.11329246,0,Healthy,0.88670754,True,Correct
+275491,0,Healthy,0.023290005,0,Healthy,0.97671,True,Correct
+275849,0,Healthy,0.025864767,0,Healthy,0.9741352,True,Correct
+275214,0,Healthy,0.9999778,1,Cancer,0.9999778,False,False Positive
+48085,0,Healthy,0.999782,1,Cancer,0.999782,False,False Positive
+47600,0,Healthy,0.999998,1,Cancer,0.999998,False,False Positive
+47673,1,Cancer,0.9999864,1,Cancer,0.9999864,True,Correct
+47493,0,Healthy,0.45551977,0,Healthy,0.5444802,True,Correct
+48121,1,Cancer,0.99891067,1,Cancer,0.99891067,True,Correct
+47197,0,Healthy,0.968175,1,Cancer,0.968175,False,False Positive
+47711,1,Cancer,0.9999385,1,Cancer,0.9999385,True,Correct
+47701,1,Cancer,0.9996538,1,Cancer,0.9996538,True,Correct
+47657,0,Healthy,0.9999527,1,Cancer,0.9999527,False,False Positive
+47176,1,Cancer,0.9816465,1,Cancer,0.9816465,True,Correct
+47629,0,Healthy,0.9999993,1,Cancer,0.9999993,False,False Positive
+47868,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275565,0,Healthy,0.6242089,1,Cancer,0.6242089,False,False Positive
+48090,1,Cancer,0.99999845,1,Cancer,0.99999845,True,Correct
+47524,0,Healthy,0.9998815,1,Cancer,0.9998815,False,False Positive
+47409,1,Cancer,0.99846375,1,Cancer,0.99846375,True,Correct
+47562,1,Cancer,0.99927944,1,Cancer,0.99927944,True,Correct
+47781,0,Healthy,0.9999894,1,Cancer,0.9999894,False,False Positive
+47620,0,Healthy,0.9978709,1,Cancer,0.9978709,False,False Positive
+275372,0,Healthy,0.02077803,0,Healthy,0.97922194,True,Correct
+47574,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47752,1,Cancer,0.9997259,1,Cancer,0.9997259,True,Correct
+275939,0,Healthy,0.99815506,1,Cancer,0.99815506,False,False Positive
+47609,1,Cancer,0.9996259,1,Cancer,0.9996259,True,Correct
+275898,0,Healthy,0.99704343,1,Cancer,0.99704343,False,False Positive
+48050,1,Cancer,0.99755704,1,Cancer,0.99755704,True,Correct
+275630,0,Healthy,0.9960907,1,Cancer,0.9960907,False,False Positive
+47252,1,Cancer,0.9697147,1,Cancer,0.9697147,True,Correct
+47829,0,Healthy,0.99999845,1,Cancer,0.99999845,False,False Positive
+47220,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47928,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47361,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47286,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47362,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48036,0,Healthy,0.99999774,1,Cancer,0.99999774,False,False Positive
+47355,0,Healthy,0.9949563,1,Cancer,0.9949563,False,False Positive
+47366,1,Cancer,0.99969935,1,Cancer,0.99969935,True,Correct
+47787,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47530,0,Healthy,0.9999989,1,Cancer,0.9999989,False,False Positive
+47452,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47877,1,Cancer,0.9051136,1,Cancer,0.9051136,True,Correct
+275243,0,Healthy,0.8561172,1,Cancer,0.8561172,False,False Positive
+47338,1,Cancer,0.9999988,1,Cancer,0.9999988,True,Correct
+275811,0,Healthy,0.9573087,1,Cancer,0.9573087,False,False Positive
+47740,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47425,0,Healthy,0.99999905,1,Cancer,0.99999905,False,False Positive
+47175,0,Healthy,0.994409,1,Cancer,0.994409,False,False Positive
+275656,0,Healthy,0.7526079,1,Cancer,0.7526079,False,False Positive
+47185,1,Cancer,0.9998783,1,Cancer,0.9998783,True,Correct
+47730,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+48106,0,Healthy,0.99999833,1,Cancer,0.99999833,False,False Positive
+48135,1,Cancer,0.9991528,1,Cancer,0.9991528,True,Correct
+275890,0,Healthy,0.0010623215,0,Healthy,0.99893767,True,Correct
+47883,1,Cancer,0.9999968,1,Cancer,0.9999968,True,Correct
+47428,0,Healthy,0.99996686,1,Cancer,0.99996686,False,False Positive
+47661,0,Healthy,0.9992447,1,Cancer,0.9992447,False,False Positive
+47368,1,Cancer,0.9998084,1,Cancer,0.9998084,True,Correct
+47941,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+47349,1,Cancer,0.9839955,1,Cancer,0.9839955,True,Correct
+47882,1,Cancer,0.99973136,1,Cancer,0.99973136,True,Correct
+275870,0,Healthy,0.10134803,0,Healthy,0.89865196,True,Correct
+47674,1,Cancer,0.9999039,1,Cancer,0.9999039,True,Correct
+48070,1,Cancer,0.9987457,1,Cancer,0.9987457,True,Correct
+48139,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47840,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+48103,0,Healthy,0.99999905,1,Cancer,0.99999905,False,False Positive
+48009,1,Cancer,0.9999958,1,Cancer,0.9999958,True,Correct
+275894,0,Healthy,0.7760082,1,Cancer,0.7760082,False,False Positive
+47653,1,Cancer,0.99986076,1,Cancer,0.99986076,True,Correct
+47820,1,Cancer,0.9988961,1,Cancer,0.9988961,True,Correct
+47839,1,Cancer,0.9968291,1,Cancer,0.9968291,True,Correct
+47289,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47737,0,Healthy,0.9737743,1,Cancer,0.9737743,False,False Positive
+47551,1,Cancer,0.99487203,1,Cancer,0.99487203,True,Correct
+47682,1,Cancer,0.99999595,1,Cancer,0.99999595,True,Correct
+275858,0,Healthy,0.9935137,1,Cancer,0.9935137,False,False Positive
+275955,0,Healthy,0.009503171,0,Healthy,0.9904968,True,Correct
+47385,1,Cancer,0.9999896,1,Cancer,0.9999896,True,Correct
+275290,0,Healthy,0.97700727,1,Cancer,0.97700727,False,False Positive
+47450,1,Cancer,0.22995128,0,Healthy,0.77004874,False,False Negative
+275452,0,Healthy,0.0005021362,0,Healthy,0.9994979,True,Correct
+47735,0,Healthy,0.99926966,1,Cancer,0.99926966,False,False Positive
+275484,0,Healthy,0.595929,1,Cancer,0.595929,False,False Positive
+47190,1,Cancer,0.9995995,1,Cancer,0.9995995,True,Correct
+47614,1,Cancer,0.9999964,1,Cancer,0.9999964,True,Correct
+47799,1,Cancer,0.99999595,1,Cancer,0.99999595,True,Correct
+47239,0,Healthy,0.9999932,1,Cancer,0.9999932,False,False Positive
+47783,0,Healthy,0.99102926,1,Cancer,0.99102926,False,False Positive
+47856,1,Cancer,0.999796,1,Cancer,0.999796,True,Correct
+47284,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47670,1,Cancer,0.85583484,1,Cancer,0.85583484,True,Correct
+47847,0,Healthy,0.9997373,1,Cancer,0.9997373,False,False Positive
+48120,0,Healthy,0.9455087,1,Cancer,0.9455087,False,False Positive
+276019,0,Healthy,0.010796386,0,Healthy,0.98920363,True,Correct
+47532,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47262,1,Cancer,0.9997758,1,Cancer,0.9997758,True,Correct
+47908,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+47622,0,Healthy,0.9253474,1,Cancer,0.9253474,False,False Positive
+275400,0,Healthy,0.0030965232,0,Healthy,0.9969035,True,Correct
+47634,1,Cancer,0.9545418,1,Cancer,0.9545418,True,Correct
+47838,1,Cancer,0.9996395,1,Cancer,0.9996395,True,Correct
+47637,1,Cancer,0.99999607,1,Cancer,0.99999607,True,Correct
+275247,0,Healthy,0.9995029,1,Cancer,0.9995029,False,False Positive
+47976,1,Cancer,0.99999416,1,Cancer,0.99999416,True,Correct
+47874,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47983,1,Cancer,0.9999919,1,Cancer,0.9999919,True,Correct
+48024,1,Cancer,0.95169437,1,Cancer,0.95169437,True,Correct
+47897,1,Cancer,0.9999968,1,Cancer,0.9999968,True,Correct
+275790,0,Healthy,3.5046876e-05,0,Healthy,0.99996495,True,Correct
+47388,1,Cancer,0.9999616,1,Cancer,0.9999616,True,Correct
+48095,1,Cancer,0.9996631,1,Cancer,0.9996631,True,Correct
+275272,0,Healthy,0.00012127504,0,Healthy,0.9998787,True,Correct
+275425,0,Healthy,0.7538934,1,Cancer,0.7538934,False,False Positive
+47816,1,Cancer,0.9365778,1,Cancer,0.9365778,True,Correct
+48021,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+275202,0,Healthy,0.00096516445,0,Healthy,0.9990348,True,Correct
+47631,0,Healthy,0.94428164,1,Cancer,0.94428164,False,False Positive
+47595,0,Healthy,0.9828662,1,Cancer,0.9828662,False,False Positive
+275624,0,Healthy,0.14516984,0,Healthy,0.85483015,True,Correct
+48037,1,Cancer,0.9992156,1,Cancer,0.9992156,True,Correct
+47691,0,Healthy,0.99999976,1,Cancer,0.99999976,False,False Positive
+275931,0,Healthy,0.8891391,1,Cancer,0.8891391,False,False Positive
+47906,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+275710,0,Healthy,0.14548011,0,Healthy,0.8545199,True,Correct
+275604,0,Healthy,0.40425086,0,Healthy,0.59574914,True,Correct
+48145,0,Healthy,0.99996734,1,Cancer,0.99996734,False,False Positive
+275319,0,Healthy,0.097853884,0,Healthy,0.9021461,True,Correct
+275364,0,Healthy,0.11292539,0,Healthy,0.8870746,True,Correct
+47804,1,Cancer,0.9952195,1,Cancer,0.9952195,True,Correct
+47189,1,Cancer,0.9688094,1,Cancer,0.9688094,True,Correct
+47295,0,Healthy,0.9999994,1,Cancer,0.9999994,False,False Positive
+47692,1,Cancer,0.3474793,0,Healthy,0.65252066,False,False Negative
+47277,0,Healthy,0.94554204,1,Cancer,0.94554204,False,False Positive
+47695,1,Cancer,0.9998783,1,Cancer,0.9998783,True,Correct
+47491,0,Healthy,0.9994842,1,Cancer,0.9994842,False,False Positive
+47429,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47193,1,Cancer,0.9996195,1,Cancer,0.9996195,True,Correct
+275810,0,Healthy,7.626456e-05,0,Healthy,0.9999237,True,Correct
+47937,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47236,1,Cancer,0.9996438,1,Cancer,0.9996438,True,Correct
+275958,0,Healthy,0.000826119,0,Healthy,0.9991739,True,Correct
+48140,1,Cancer,0.8926785,1,Cancer,0.8926785,True,Correct
+47487,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47763,1,Cancer,0.99918276,1,Cancer,0.99918276,True,Correct
+47778,0,Healthy,0.99999857,1,Cancer,0.99999857,False,False Positive
+47329,0,Healthy,0.9797497,1,Cancer,0.9797497,False,False Positive
+275698,0,Healthy,0.0018981202,0,Healthy,0.9981019,True,Correct
+47818,1,Cancer,0.9999943,1,Cancer,0.9999943,True,Correct
+47967,0,Healthy,0.24366884,0,Healthy,0.75633115,True,Correct
+47423,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47547,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+47556,0,Healthy,0.26179764,0,Healthy,0.73820233,True,Correct
+47830,0,Healthy,0.99576485,1,Cancer,0.99576485,False,False Positive
+47825,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47659,1,Cancer,0.96714437,1,Cancer,0.96714437,True,Correct
+48132,1,Cancer,0.99357915,1,Cancer,0.99357915,True,Correct
+47304,0,Healthy,0.99998236,1,Cancer,0.99998236,False,False Positive
+48154,1,Cancer,0.9998672,1,Cancer,0.9998672,True,Correct
+48115,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47903,0,Healthy,0.998629,1,Cancer,0.998629,False,False Positive
+47283,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47476,1,Cancer,0.9996948,1,Cancer,0.9996948,True,Correct
+47888,0,Healthy,0.9999993,1,Cancer,0.9999993,False,False Positive
+276001,0,Healthy,0.004583403,0,Healthy,0.9954166,True,Correct
+47548,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47354,1,Cancer,0.9999715,1,Cancer,0.9999715,True,Correct
+47268,1,Cancer,0.9999974,1,Cancer,0.9999974,True,Correct
+47862,1,Cancer,0.9999976,1,Cancer,0.9999976,True,Correct
+47738,1,Cancer,0.99999094,1,Cancer,0.99999094,True,Correct
+47508,1,Cancer,0.9999882,1,Cancer,0.9999882,True,Correct
+47559,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47445,1,Cancer,0.9955642,1,Cancer,0.9955642,True,Correct
+47719,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47235,1,Cancer,0.99980336,1,Cancer,0.99980336,True,Correct
+47243,0,Healthy,0.99999917,1,Cancer,0.99999917,False,False Positive
+275970,0,Healthy,0.0021870637,0,Healthy,0.9978129,True,Correct
+275439,0,Healthy,0.8779935,1,Cancer,0.8779935,False,False Positive
+275950,0,Healthy,0.86138314,1,Cancer,0.86138314,False,False Positive
+47827,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47531,1,Cancer,0.98120064,1,Cancer,0.98120064,True,Correct
+48118,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47996,0,Healthy,0.99641776,1,Cancer,0.99641776,False,False Positive
+47940,1,Cancer,0.99999666,1,Cancer,0.99999666,True,Correct
+275490,0,Healthy,0.98131406,1,Cancer,0.98131406,False,False Positive
+47997,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47885,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+48011,1,Cancer,0.9999957,1,Cancer,0.9999957,True,Correct
+47464,1,Cancer,0.9999883,1,Cancer,0.9999883,True,Correct
+47919,1,Cancer,0.9992861,1,Cancer,0.9992861,True,Correct
+276074,0,Healthy,0.00031544082,0,Healthy,0.9996846,True,Correct
+47478,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275187,0,Healthy,0.9999864,1,Cancer,0.9999864,False,False Positive
+47745,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+275959,0,Healthy,0.7893676,1,Cancer,0.7893676,False,False Positive
+47293,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+275512,0,Healthy,0.79724985,1,Cancer,0.79724985,False,False Positive
+47447,0,Healthy,0.999967,1,Cancer,0.999967,False,False Positive
+275431,0,Healthy,0.29055062,0,Healthy,0.7094494,True,Correct
+275730,0,Healthy,0.06795377,0,Healthy,0.93204623,True,Correct
+275807,0,Healthy,0.8163747,1,Cancer,0.8163747,False,False Positive
+48167,0,Healthy,0.99984634,1,Cancer,0.99984634,False,False Positive
+47217,1,Cancer,0.9998294,1,Cancer,0.9998294,True,Correct
+47611,0,Healthy,0.99998343,1,Cancer,0.99998343,False,False Positive
+47699,1,Cancer,0.99998724,1,Cancer,0.99998724,True,Correct
+276088,0,Healthy,0.01412536,0,Healthy,0.98587465,True,Correct
+47986,1,Cancer,0.9951573,1,Cancer,0.9951573,True,Correct
+275183,0,Healthy,0.02129209,0,Healthy,0.9787079,True,Correct
+48063,1,Cancer,0.9997422,1,Cancer,0.9997422,True,Correct
+47727,1,Cancer,0.9768411,1,Cancer,0.9768411,True,Correct
+47762,1,Cancer,0.9923544,1,Cancer,0.9923544,True,Correct
+47322,0,Healthy,0.9999993,1,Cancer,0.9999993,False,False Positive
+275350,0,Healthy,0.0152342785,0,Healthy,0.9847657,True,Correct
+47849,0,Healthy,0.926197,1,Cancer,0.926197,False,False Positive
+48053,1,Cancer,0.99999726,1,Cancer,0.99999726,True,Correct
+47714,1,Cancer,0.9999807,1,Cancer,0.9999807,True,Correct
+47630,1,Cancer,0.9999995,1,Cancer,0.9999995,True,Correct
+47624,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+47357,0,Healthy,0.99999905,1,Cancer,0.99999905,False,False Positive
+47456,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+47971,0,Healthy,0.9999025,1,Cancer,0.9999025,False,False Positive
+275382,0,Healthy,0.57247657,1,Cancer,0.57247657,False,False Positive
+48157,0,Healthy,0.9924083,1,Cancer,0.9924083,False,False Positive
+47391,0,Healthy,0.99975353,1,Cancer,0.99975353,False,False Positive
+47610,1,Cancer,0.99824995,1,Cancer,0.99824995,True,Correct
+48102,0,Healthy,0.99999964,1,Cancer,0.99999964,False,False Positive
+47573,0,Healthy,0.999997,1,Cancer,0.999997,False,False Positive
+275453,0,Healthy,0.9999894,1,Cancer,0.9999894,False,False Positive
+276013,0,Healthy,0.007772717,0,Healthy,0.99222726,True,Correct
+47764,1,Cancer,0.99998057,1,Cancer,0.99998057,True,Correct
+47680,1,Cancer,0.9998982,1,Cancer,0.9998982,True,Correct
+47297,1,Cancer,0.92945415,1,Cancer,0.92945415,True,Correct
+275786,0,Healthy,0.1603167,0,Healthy,0.8396833,True,Correct
+47521,1,Cancer,0.9999926,1,Cancer,0.9999926,True,Correct
+47298,1,Cancer,0.99996865,1,Cancer,0.99996865,True,Correct
+48008,1,Cancer,0.99940634,1,Cancer,0.99940634,True,Correct
+275218,0,Healthy,0.902372,1,Cancer,0.902372,False,False Positive
+47208,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48005,1,Cancer,0.9930508,1,Cancer,0.9930508,True,Correct
+275947,0,Healthy,0.0041922447,0,Healthy,0.99580777,True,Correct
+275663,0,Healthy,0.011369167,0,Healthy,0.98863083,True,Correct
+47225,1,Cancer,0.9999833,1,Cancer,0.9999833,True,Correct
+276128,0,Healthy,0.007493213,0,Healthy,0.9925068,True,Correct
+47813,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275401,0,Healthy,0.27332196,0,Healthy,0.726678,True,Correct
+47448,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+48048,1,Cancer,0.99997795,1,Cancer,0.99997795,True,Correct
+47211,1,Cancer,0.99998975,1,Cancer,0.99998975,True,Correct
+47327,0,Healthy,0.99992263,1,Cancer,0.99992263,False,False Positive
+47218,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+275466,0,Healthy,0.999749,1,Cancer,0.999749,False,False Positive
+47817,1,Cancer,0.9997805,1,Cancer,0.9997805,True,Correct
+47572,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47717,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47923,1,Cancer,0.9989108,1,Cancer,0.9989108,True,Correct
+47938,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+275655,0,Healthy,0.99997616,1,Cancer,0.99997616,False,False Positive
+275213,0,Healthy,0.56757456,1,Cancer,0.56757456,False,False Positive
+275732,0,Healthy,0.99416214,1,Cancer,0.99416214,False,False Positive
+47520,0,Healthy,0.32600406,0,Healthy,0.673996,True,Correct
+47242,0,Healthy,0.99970216,1,Cancer,0.99970216,False,False Positive
+47356,1,Cancer,0.9582911,1,Cancer,0.9582911,True,Correct
+47592,0,Healthy,0.99999285,1,Cancer,0.99999285,False,False Positive
+47259,1,Cancer,0.9980159,1,Cancer,0.9980159,True,Correct
+47506,0,Healthy,0.99999917,1,Cancer,0.99999917,False,False Positive
+47480,1,Cancer,0.9998617,1,Cancer,0.9998617,True,Correct
+47689,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47519,1,Cancer,0.9999975,1,Cancer,0.9999975,True,Correct
+47399,0,Healthy,0.9999995,1,Cancer,0.9999995,False,False Positive
+47269,1,Cancer,0.9923339,1,Cancer,0.9923339,True,Correct
+47709,1,Cancer,0.9999609,1,Cancer,0.9999609,True,Correct
+275728,0,Healthy,0.56334037,1,Cancer,0.56334037,False,False Positive
+47722,1,Cancer,0.96154886,1,Cancer,0.96154886,True,Correct
+47771,1,Cancer,0.9981066,1,Cancer,0.9981066,True,Correct
+47566,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47179,1,Cancer,0.99996126,1,Cancer,0.99996126,True,Correct
+47891,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+275420,0,Healthy,0.9546422,1,Cancer,0.9546422,False,False Positive
+47477,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47543,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47873,1,Cancer,0.94643664,1,Cancer,0.94643664,True,Correct
+47174,0,Healthy,0.9909894,1,Cancer,0.9909894,False,False Positive
+275260,0,Healthy,0.0022305672,0,Healthy,0.9977694,True,Correct
+47237,0,Healthy,0.9999912,1,Cancer,0.9999912,False,False Positive
+47837,1,Cancer,0.99999094,1,Cancer,0.99999094,True,Correct
+47746,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47663,0,Healthy,0.9998783,1,Cancer,0.9998783,False,False Positive
+47822,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47343,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47221,1,Cancer,0.99992406,1,Cancer,0.99992406,True,Correct
+275278,0,Healthy,0.06423143,0,Healthy,0.93576854,True,Correct
+275980,0,Healthy,0.17595096,0,Healthy,0.82404906,True,Correct
+275640,0,Healthy,0.11719817,0,Healthy,0.88280183,True,Correct
+47486,1,Cancer,0.99998844,1,Cancer,0.99998844,True,Correct
+47671,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47459,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+48079,0,Healthy,0.9999119,1,Cancer,0.9999119,False,False Positive
+47420,0,Healthy,0.99992406,1,Cancer,0.99992406,False,False Positive
+47878,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47999,1,Cancer,0.9999293,1,Cancer,0.9999293,True,Correct
+47422,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47833,1,Cancer,0.9999876,1,Cancer,0.9999876,True,Correct
+275222,0,Healthy,0.9642669,1,Cancer,0.9642669,False,False Positive
+47345,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47216,1,Cancer,0.99315286,1,Cancer,0.99315286,True,Correct
+47404,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47676,0,Healthy,0.03807798,0,Healthy,0.96192205,True,Correct
+275508,0,Healthy,0.008241841,0,Healthy,0.99175817,True,Correct
+48125,0,Healthy,0.999997,1,Cancer,0.999997,False,False Positive
+47342,1,Cancer,0.9999976,1,Cancer,0.9999976,True,Correct
+47679,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+47390,1,Cancer,0.9999944,1,Cancer,0.9999944,True,Correct
+48086,1,Cancer,0.9999145,1,Cancer,0.9999145,True,Correct
+47328,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47432,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47435,0,Healthy,0.99462825,1,Cancer,0.99462825,False,False Positive
+47261,1,Cancer,0.99869746,1,Cancer,0.99869746,True,Correct
+275283,0,Healthy,0.62481976,1,Cancer,0.62481976,False,False Positive
+47203,0,Healthy,0.9819103,1,Cancer,0.9819103,False,False Positive
+48027,1,Cancer,0.98080736,1,Cancer,0.98080736,True,Correct
+275869,0,Healthy,0.029038647,0,Healthy,0.97096133,True,Correct
+47371,1,Cancer,0.99999785,1,Cancer,0.99999785,True,Correct
+275457,0,Healthy,0.024053788,0,Healthy,0.9759462,True,Correct
+47861,0,Healthy,0.9999995,1,Cancer,0.9999995,False,False Positive
+275755,0,Healthy,0.0030273916,0,Healthy,0.9969726,True,Correct
+47644,0,Healthy,0.9999802,1,Cancer,0.9999802,False,False Positive
+47819,1,Cancer,0.9999349,1,Cancer,0.9999349,True,Correct
+48127,1,Cancer,0.9999232,1,Cancer,0.9999232,True,Correct
+47731,1,Cancer,0.7188258,1,Cancer,0.7188258,True,Correct
+47992,0,Healthy,0.99999833,1,Cancer,0.99999833,False,False Positive
+48124,0,Healthy,0.99999905,1,Cancer,0.99999905,False,False Positive
+275553,0,Healthy,0.016127182,0,Healthy,0.98387283,True,Correct
+47866,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47683,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47954,1,Cancer,0.9999987,1,Cancer,0.9999987,True,Correct
+47427,1,Cancer,0.99998724,1,Cancer,0.99998724,True,Correct
+47303,1,Cancer,0.96646315,1,Cancer,0.96646315,True,Correct
+47490,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47744,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47606,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+47485,1,Cancer,0.9989786,1,Cancer,0.9989786,True,Correct
+47643,0,Healthy,0.9999987,1,Cancer,0.9999987,False,False Positive
+275778,0,Healthy,0.0777066,0,Healthy,0.9222934,True,Correct
+275908,0,Healthy,0.99536335,1,Cancer,0.99536335,False,False Positive
+47968,0,Healthy,0.99999976,1,Cancer,0.99999976,False,False Positive
+47599,1,Cancer,0.999964,1,Cancer,0.999964,True,Correct
+48062,0,Healthy,0.99999905,1,Cancer,0.99999905,False,False Positive
+48084,0,Healthy,0.9999974,1,Cancer,0.9999974,False,False Positive
+275456,0,Healthy,0.7237683,1,Cancer,0.7237683,False,False Positive
+48010,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275621,0,Healthy,0.9177728,1,Cancer,0.9177728,False,False Positive
+47403,1,Cancer,0.9999888,1,Cancer,0.9999888,True,Correct
+275787,0,Healthy,0.26597303,0,Healthy,0.73402697,True,Correct
+47843,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47667,1,Cancer,0.99996316,1,Cancer,0.99996316,True,Correct
+47181,0,Healthy,0.94668245,1,Cancer,0.94668245,False,False Positive
+275176,0,Healthy,0.9244267,1,Cancer,0.9244267,False,False Positive
+48129,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47264,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47449,1,Cancer,0.21950229,0,Healthy,0.7804977,False,False Negative
+275582,0,Healthy,0.98800695,1,Cancer,0.98800695,False,False Positive
+47525,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47188,1,Cancer,0.9997304,1,Cancer,0.9997304,True,Correct
+47266,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48137,0,Healthy,0.99996746,1,Cancer,0.99996746,False,False Positive
+47512,1,Cancer,0.99998283,1,Cancer,0.99998283,True,Correct
+47875,1,Cancer,0.9994795,1,Cancer,0.9994795,True,Correct
+47474,0,Healthy,0.9995315,1,Cancer,0.9995315,False,False Positive
+47812,0,Healthy,0.99995244,1,Cancer,0.99995244,False,False Positive
+47516,1,Cancer,0.99973553,1,Cancer,0.99973553,True,Correct
+47854,0,Healthy,0.99999964,1,Cancer,0.99999964,False,False Positive
+47749,1,Cancer,0.60675174,1,Cancer,0.60675174,True,Correct
+47729,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+47352,1,Cancer,0.9932613,1,Cancer,0.9932613,True,Correct
+48169,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275454,0,Healthy,0.2551449,0,Healthy,0.7448551,True,Correct
+275258,0,Healthy,0.1884736,0,Healthy,0.8115264,True,Correct
+275852,0,Healthy,0.00068197685,0,Healthy,0.999318,True,Correct
+275198,0,Healthy,0.8761481,1,Cancer,0.8761481,False,False Positive
+47860,0,Healthy,0.76121473,1,Cancer,0.76121473,False,False Positive
+47369,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47535,1,Cancer,0.9994443,1,Cancer,0.9994443,True,Correct
+47287,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+47380,1,Cancer,0.9966724,1,Cancer,0.9966724,True,Correct
+276015,0,Healthy,0.15367927,0,Healthy,0.84632075,True,Correct
+47178,1,Cancer,0.9839451,1,Cancer,0.9839451,True,Correct
+47457,1,Cancer,0.9953265,1,Cancer,0.9953265,True,Correct
+275990,0,Healthy,0.16013232,0,Healthy,0.8398677,True,Correct
+47451,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47226,1,Cancer,0.99970007,1,Cancer,0.99970007,True,Correct
+275172,0,Healthy,0.9998858,1,Cancer,0.9998858,False,False Positive
+47932,0,Healthy,0.99998546,1,Cancer,0.99998546,False,False Positive
+47177,1,Cancer,0.98674124,1,Cancer,0.98674124,True,Correct
+47406,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47926,1,Cancer,0.9991241,1,Cancer,0.9991241,True,Correct
+47794,1,Cancer,0.98733085,1,Cancer,0.98733085,True,Correct
+47700,1,Cancer,0.99997306,1,Cancer,0.99997306,True,Correct
+47272,1,Cancer,0.9999752,1,Cancer,0.9999752,True,Correct
+47434,1,Cancer,0.9957696,1,Cancer,0.9957696,True,Correct
+275762,0,Healthy,2.7565608e-09,0,Healthy,1.0,True,Correct
+275783,0,Healthy,0.99561787,1,Cancer,0.99561787,False,False Positive
+276054,0,Healthy,0.9203347,1,Cancer,0.9203347,False,False Positive
+47408,1,Cancer,0.9999727,1,Cancer,0.9999727,True,Correct
+47743,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47612,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47257,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275920,0,Healthy,0.91201866,1,Cancer,0.91201866,False,False Positive
+47207,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+276064,0,Healthy,0.67325467,1,Cancer,0.67325467,False,False Positive
+47222,0,Healthy,0.9990625,1,Cancer,0.9990625,False,False Positive
+47686,1,Cancer,0.9986749,1,Cancer,0.9986749,True,Correct
+276087,0,Healthy,8.5438165e-07,0,Healthy,0.99999917,True,Correct
+276081,0,Healthy,0.003612907,0,Healthy,0.99638706,True,Correct
+47410,1,Cancer,0.93834466,1,Cancer,0.93834466,True,Correct
+48073,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47800,1,Cancer,0.9999728,1,Cancer,0.9999728,True,Correct
+47879,1,Cancer,0.37638924,0,Healthy,0.62361073,False,False Negative
+47306,1,Cancer,0.99723524,1,Cancer,0.99723524,True,Correct
+48032,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47212,1,Cancer,0.06423876,0,Healthy,0.9357612,False,False Negative
+275667,0,Healthy,0.13330388,0,Healthy,0.8666961,True,Correct
+47858,0,Healthy,0.9966102,1,Cancer,0.9966102,False,False Positive
+47351,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47795,0,Healthy,0.9999964,1,Cancer,0.9999964,False,False Positive
+47411,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+275866,0,Healthy,0.2878522,0,Healthy,0.71214783,True,Correct
+275843,0,Healthy,0.94251394,1,Cancer,0.94251394,False,False Positive
+47417,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47994,0,Healthy,0.99992967,1,Cancer,0.99992967,False,False Positive
+47772,1,Cancer,0.9999988,1,Cancer,0.9999988,True,Correct
+47715,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47561,0,Healthy,0.990999,1,Cancer,0.990999,False,False Positive
+47471,1,Cancer,0.999998,1,Cancer,0.999998,True,Correct
+47704,1,Cancer,0.9999777,1,Cancer,0.9999777,True,Correct
+47765,1,Cancer,0.98997843,1,Cancer,0.98997843,True,Correct
+48088,1,Cancer,0.999097,1,Cancer,0.999097,True,Correct
+275414,0,Healthy,0.17863345,0,Healthy,0.82136655,True,Correct
+48096,1,Cancer,0.99990535,1,Cancer,0.99990535,True,Correct
+47982,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275795,0,Healthy,0.00031704598,0,Healthy,0.99968296,True,Correct
+47198,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47288,1,Cancer,0.99995375,1,Cancer,0.99995375,True,Correct
+48160,0,Healthy,0.9999994,1,Cancer,0.9999994,False,False Positive
+47675,1,Cancer,0.99723816,1,Cancer,0.99723816,True,Correct
+47260,0,Healthy,0.9999689,1,Cancer,0.9999689,False,False Positive
+48128,0,Healthy,0.9999882,1,Cancer,0.9999882,False,False Positive
+47320,0,Healthy,0.99999917,1,Cancer,0.99999917,False,False Positive
+275888,0,Healthy,0.016736815,0,Healthy,0.9832632,True,Correct
+48007,1,Cancer,0.99999964,1,Cancer,0.99999964,True,Correct
+47192,1,Cancer,0.980015,1,Cancer,0.980015,True,Correct
+47533,1,Cancer,0.9999858,1,Cancer,0.9999858,True,Correct
+275259,0,Healthy,0.00012096032,0,Healthy,0.99987906,True,Correct
+48150,0,Healthy,0.9999927,1,Cancer,0.9999927,False,False Positive
+47583,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+47591,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275591,0,Healthy,0.10935877,0,Healthy,0.8906412,True,Correct
+275361,0,Healthy,0.010465802,0,Healthy,0.9895342,True,Correct
+47580,1,Cancer,0.9999893,1,Cancer,0.9999893,True,Correct
+275423,0,Healthy,0.059392713,0,Healthy,0.9406073,True,Correct
+47500,0,Healthy,0.9999913,1,Cancer,0.9999913,False,False Positive
+47647,1,Cancer,0.9987355,1,Cancer,0.9987355,True,Correct
+275173,0,Healthy,0.9891851,1,Cancer,0.9891851,False,False Positive
+47834,1,Cancer,0.9999876,1,Cancer,0.9999876,True,Correct
+275161,0,Healthy,0.056601312,0,Healthy,0.9433987,True,Correct
+47421,1,Cancer,0.9999716,1,Cancer,0.9999716,True,Correct
+47563,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+275577,0,Healthy,0.077901185,0,Healthy,0.9220988,True,Correct
+47359,0,Healthy,0.99990165,1,Cancer,0.99990165,False,False Positive
+275518,0,Healthy,0.66306597,1,Cancer,0.66306597,False,False Positive
+47586,0,Healthy,0.99999976,1,Cancer,0.99999976,False,False Positive
+47989,1,Cancer,0.9998325,1,Cancer,0.9998325,True,Correct
+47444,0,Healthy,0.99994075,1,Cancer,0.99994075,False,False Positive
+48123,1,Cancer,0.9999975,1,Cancer,0.9999975,True,Correct
+47564,1,Cancer,0.9557283,1,Cancer,0.9557283,True,Correct
+47315,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+275823,0,Healthy,0.9578348,1,Cancer,0.9578348,False,False Positive
+275914,0,Healthy,0.58034873,1,Cancer,0.58034873,False,False Positive
+47246,1,Cancer,0.9878485,1,Cancer,0.9878485,True,Correct
+48081,1,Cancer,0.9999968,1,Cancer,0.9999968,True,Correct
+47536,1,Cancer,0.99999905,1,Cancer,0.99999905,True,Correct
+47734,1,Cancer,0.6246077,1,Cancer,0.6246077,True,Correct
+47461,1,Cancer,0.99912006,1,Cancer,0.99912006,True,Correct
+47332,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+275745,0,Healthy,0.9517169,1,Cancer,0.9517169,False,False Positive
+47316,1,Cancer,0.99991894,1,Cancer,0.99991894,True,Correct
+47642,0,Healthy,0.99999917,1,Cancer,0.99999917,False,False Positive
+47590,1,Cancer,0.9999889,1,Cancer,0.9999889,True,Correct
+48162,1,Cancer,0.99976057,1,Cancer,0.99976057,True,Correct
+47688,0,Healthy,0.99999774,1,Cancer,0.99999774,False,False Positive
+47593,0,Healthy,0.99999917,1,Cancer,0.99999917,False,False Positive
+47578,1,Cancer,0.999992,1,Cancer,0.999992,True,Correct
+275918,0,Healthy,0.2687384,0,Healthy,0.7312616,True,Correct
+276118,0,Healthy,0.4672403,0,Healthy,0.53275967,True,Correct
+47541,1,Cancer,0.9787909,1,Cancer,0.9787909,True,Correct
+47384,1,Cancer,0.9999275,1,Cancer,0.9999275,True,Correct
+48030,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+47517,0,Healthy,0.9998845,1,Cancer,0.9998845,False,False Positive
+48097,1,Cancer,0.64573914,1,Cancer,0.64573914,True,Correct
+275913,0,Healthy,0.9998437,1,Cancer,0.9998437,False,False Positive
+47187,0,Healthy,0.94378006,1,Cancer,0.94378006,False,False Positive
+275626,0,Healthy,0.99394435,1,Cancer,0.99394435,False,False Positive
+47382,1,Cancer,0.9994646,1,Cancer,0.9994646,True,Correct
+47597,1,Cancer,0.9866828,1,Cancer,0.9866828,True,Correct
+275380,0,Healthy,1.4922562e-12,0,Healthy,1.0,True,Correct
+47815,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+48006,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47281,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47925,0,Healthy,0.99925894,1,Cancer,0.99925894,False,False Positive
+47677,1,Cancer,0.99999857,1,Cancer,0.99999857,True,Correct
+275313,0,Healthy,0.33185163,0,Healthy,0.6681484,True,Correct
+47791,1,Cancer,0.9935334,1,Cancer,0.9935334,True,Correct
+47893,1,Cancer,0.9994548,1,Cancer,0.9994548,True,Correct
+47626,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275388,0,Healthy,0.20363835,0,Healthy,0.7963617,True,Correct
+47523,1,Cancer,0.9999845,1,Cancer,0.9999845,True,Correct
+47565,0,Healthy,0.9999982,1,Cancer,0.9999982,False,False Positive
+47579,1,Cancer,0.9999981,1,Cancer,0.9999981,True,Correct
+47526,1,Cancer,0.99999785,1,Cancer,0.99999785,True,Correct
+47984,1,Cancer,0.96814436,1,Cancer,0.96814436,True,Correct
+47553,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47784,1,Cancer,0.9999995,1,Cancer,0.9999995,True,Correct
+47698,1,Cancer,0.9964645,1,Cancer,0.9964645,True,Correct
+47494,1,Cancer,0.9968746,1,Cancer,0.9968746,True,Correct
+47569,1,Cancer,0.9999989,1,Cancer,0.9999989,True,Correct
+47245,0,Healthy,0.9999937,1,Cancer,0.9999937,False,False Positive
+47308,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+47364,1,Cancer,0.99580765,1,Cancer,0.99580765,True,Correct
+275631,0,Healthy,7.4438635e-06,0,Healthy,0.99999255,True,Correct
+47317,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47601,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47809,1,Cancer,0.99999917,1,Cancer,0.99999917,True,Correct
+47796,1,Cancer,0.99991024,1,Cancer,0.99991024,True,Correct
+47905,1,Cancer,0.99972504,1,Cancer,0.99972504,True,Correct
+47980,1,Cancer,0.9999987,1,Cancer,0.9999987,True,Correct
+48087,1,Cancer,0.9971732,1,Cancer,0.9971732,True,Correct
+47702,1,Cancer,0.9995763,1,Cancer,0.9995763,True,Correct
+47210,0,Healthy,0.99554896,1,Cancer,0.99554896,False,False Positive
+47793,1,Cancer,0.99868613,1,Cancer,0.99868613,True,Correct
+47415,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275365,0,Healthy,0.9488547,1,Cancer,0.9488547,False,False Positive
+275547,0,Healthy,0.21555975,0,Healthy,0.7844403,True,Correct
+47305,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47669,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47678,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47290,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47528,0,Healthy,0.99999976,1,Cancer,0.99999976,False,False Positive
+47319,0,Healthy,0.99994683,1,Cancer,0.99994683,False,False Positive
+47811,0,Healthy,0.9999995,1,Cancer,0.9999995,False,False Positive
+275665,0,Healthy,0.99744844,1,Cancer,0.99744844,False,False Positive
+48126,1,Cancer,0.99999714,1,Cancer,0.99999714,True,Correct
+47381,1,Cancer,0.99982494,1,Cancer,0.99982494,True,Correct
+275175,0,Healthy,0.39749098,0,Healthy,0.602509,True,Correct
+48144,1,Cancer,0.999982,1,Cancer,0.999982,True,Correct
+47805,1,Cancer,0.99998593,1,Cancer,0.99998593,True,Correct
+47777,1,Cancer,0.04411619,0,Healthy,0.9558838,False,False Negative
+48119,1,Cancer,0.8148354,1,Cancer,0.8148354,True,Correct
+47263,1,Cancer,0.9999856,1,Cancer,0.9999856,True,Correct
+275499,0,Healthy,0.022781247,0,Healthy,0.97721875,True,Correct
+275804,0,Healthy,0.876715,1,Cancer,0.876715,False,False Positive
+47831,1,Cancer,0.645735,1,Cancer,0.645735,True,Correct
+47336,0,Healthy,0.9999999,1,Cancer,0.9999999,False,False Positive
+47930,1,Cancer,0.9999993,1,Cancer,0.9999993,True,Correct
+275334,0,Healthy,0.0063061784,0,Healthy,0.9936938,True,Correct
+47333,0,Healthy,0.9989145,1,Cancer,0.9989145,False,False Positive
+47780,1,Cancer,0.9999987,1,Cancer,0.9999987,True,Correct
+47685,0,Healthy,0.97902656,1,Cancer,0.97902656,False,False Positive
+47204,1,Cancer,0.6321006,1,Cancer,0.6321006,True,Correct
+275471,0,Healthy,0.97726,1,Cancer,0.97726,False,False Positive
+275602,0,Healthy,0.26189727,0,Healthy,0.73810273,True,Correct
+48104,0,Healthy,0.99992776,1,Cancer,0.99992776,False,False Positive
+276127,0,Healthy,0.095396526,0,Healthy,0.9046035,True,Correct
+48082,0,Healthy,0.99755543,1,Cancer,0.99755543,False,False Positive
+275543,0,Healthy,2.5636951e-05,0,Healthy,0.99997437,True,Correct
+47694,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47195,1,Cancer,0.98930967,1,Cancer,0.98930967,True,Correct
+47751,0,Healthy,0.9999988,1,Cancer,0.9999988,False,False Positive
+47828,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47723,1,Cancer,0.9998903,1,Cancer,0.9998903,True,Correct
+276058,0,Healthy,0.100039124,0,Healthy,0.8999609,True,Correct
+275766,0,Healthy,5.385756e-05,0,Healthy,0.9999461,True,Correct
+48015,1,Cancer,0.99773264,1,Cancer,0.99773264,True,Correct
+47270,1,Cancer,0.99961436,1,Cancer,0.99961436,True,Correct
+275191,0,Healthy,0.8235368,1,Cancer,0.8235368,False,False Positive
+47632,0,Healthy,0.99940705,1,Cancer,0.99940705,False,False Positive
+47696,1,Cancer,0.99968815,1,Cancer,0.99968815,True,Correct
+47199,0,Healthy,0.9999716,1,Cancer,0.9999716,False,False Positive
+47914,1,Cancer,0.99999845,1,Cancer,0.99999845,True,Correct
+48031,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+276138,0,Healthy,0.23455909,0,Healthy,0.76544094,True,Correct
+275289,0,Healthy,0.11937638,0,Healthy,0.88062364,True,Correct
+47534,0,Healthy,0.999998,1,Cancer,0.999998,False,False Positive
+276104,0,Healthy,0.9764282,1,Cancer,0.9764282,False,False Positive
+47484,1,Cancer,0.99914384,1,Cancer,0.99914384,True,Correct
+47990,0,Healthy,0.99997044,1,Cancer,0.99997044,False,False Positive
+47756,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47470,0,Healthy,0.99039876,1,Cancer,0.99039876,False,False Positive
+275966,0,Healthy,0.7392787,1,Cancer,0.7392787,False,False Positive
+276071,0,Healthy,0.11050812,0,Healthy,0.88949186,True,Correct
+47228,1,Cancer,0.9998307,1,Cancer,0.9998307,True,Correct
+275761,0,Healthy,0.9781527,1,Cancer,0.9781527,False,False Positive
+275838,0,Healthy,0.0030800912,0,Healthy,0.99691993,True,Correct
+47251,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47985,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47987,0,Healthy,0.9998597,1,Cancer,0.9998597,False,False Positive
+47466,1,Cancer,0.9999999,1,Cancer,0.9999999,True,Correct
+47209,1,Cancer,0.99999976,1,Cancer,0.99999976,True,Correct
+275919,0,Healthy,0.2708795,0,Healthy,0.7291205,True,Correct
+47697,1,Cancer,0.969203,1,Cancer,0.969203,True,Correct
+275320,0,Healthy,0.08127522,0,Healthy,0.9187248,True,Correct
+275503,0,Healthy,0.025548203,0,Healthy,0.9744518,True,Correct
+47331,1,Cancer,0.9987839,1,Cancer,0.9987839,True,Correct
+47896,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47468,0,Healthy,0.9937177,1,Cancer,0.9937177,False,False Positive
+48013,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+47183,1,Cancer,0.9995617,1,Cancer,0.9995617,True,Correct
+275224,0,Healthy,0.996049,1,Cancer,0.996049,False,False Positive
+47582,0,Healthy,0.9999962,1,Cancer,0.9999962,False,False Positive
+275884,0,Healthy,0.9988066,1,Cancer,0.9988066,False,False Positive
+47219,0,Healthy,0.99999547,1,Cancer,0.99999547,False,False Positive
+47687,0,Healthy,0.9999993,1,Cancer,0.9999993,False,False Positive
+47389,1,Cancer,0.75135726,1,Cancer,0.75135726,True,Correct
+47726,0,Healthy,0.9985018,1,Cancer,0.9985018,False,False Positive
+47887,0,Healthy,0.997997,1,Cancer,0.997997,False,False Positive
+275875,0,Healthy,0.087851904,0,Healthy,0.9121481,True,Correct
+47741,1,Cancer,0.92980474,1,Cancer,0.92980474,True,Correct
+47635,0,Healthy,1.0,1,Cancer,1.0,False,False Positive
+275679,0,Healthy,0.013954384,0,Healthy,0.9860456,True,Correct
+47502,0,Healthy,0.9992823,1,Cancer,0.9992823,False,False Positive
+47712,1,Cancer,0.99975497,1,Cancer,0.99975497,True,Correct
+275742,0,Healthy,0.0011409058,0,Healthy,0.9988591,True,Correct
+275940,0,Healthy,0.9668992,1,Cancer,0.9668992,False,False Positive
+47845,1,Cancer,0.99985385,1,Cancer,0.99985385,True,Correct
+47439,0,Healthy,0.99999976,1,Cancer,0.99999976,False,False Positive
+47747,1,Cancer,0.99999416,1,Cancer,0.99999416,True,Correct
+47560,1,Cancer,0.9999919,1,Cancer,0.9999919,True,Correct
+47728,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275841,0,Healthy,0.06808626,0,Healthy,0.93191373,True,Correct
+48136,0,Healthy,0.9998907,1,Cancer,0.9998907,False,False Positive
+48026,1,Cancer,0.99998605,1,Cancer,0.99998605,True,Correct
+47497,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+47307,1,Cancer,0.99699867,1,Cancer,0.99699867,True,Correct
+275209,0,Healthy,1.0426518e-07,0,Healthy,0.9999999,True,Correct
+47191,0,Healthy,0.9995425,1,Cancer,0.9995425,False,False Positive
+47889,0,Healthy,0.9975714,1,Cancer,0.9975714,False,False Positive
+47623,0,Healthy,0.99555594,1,Cancer,0.99555594,False,False Positive
+47720,1,Cancer,1.0,1,Cancer,1.0,True,Correct
+275293,0,Healthy,0.03568132,0,Healthy,0.9643187,True,Correct
+275827,0,Healthy,0.0002791907,0,Healthy,0.9997208,True,Correct
+47742,1,Cancer,0.9999994,1,Cancer,0.9999994,True,Correct
+47803,1,Cancer,0.99793684,1,Cancer,0.99793684,True,Correct
+48155,1,Cancer,0.99997556,1,Cancer,0.99997556,True,Correct
+48159,0,Healthy,0.9999925,1,Cancer,0.9999925,False,False Positive
+47842,1,Cancer,1.0,1,Cancer,1.0,True,Correct

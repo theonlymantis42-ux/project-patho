@@ -1,0 +1,16 @@
+{
+  "correction": "Original cell 0 is long and includes architecture, training reference, evaluation and Grad-CAM. Earlier diagnostics-only description was incorrect.",
+  "code_cells": 3,
+  "source_lines": 1037,
+  "sha256": "c27295280897f6acc6bd5ac2222efae18c6d875bb64ca2477db84c108a771f2a",
+  "recovered_reference_settings": {
+    "backbone": "ImageNet MobileNetV2, frozen",
+    "scaling": "uint8 / 255.0",
+    "head": "GAP; Dense 64 ReLU; Dense 1 sigmoid",
+    "optimizer": "Adam, saved learning rate 0.001",
+    "training_call": "commented out: batch_size=32, epochs=5",
+    "augmentation": "horizontal_and_vertical flip; RandomRotation 0.2 in fresh-model branch",
+    "ece": "10 uniform confidence bins"
+  },
+  "remaining_issue": "This version loads existing NPZs; no image_id extraction assignment. Commented training call does not prove historical execution."
+}

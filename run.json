@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "mode": "study",
+  "status": "complete",
+  "started_utc": "2026-11-11T17:32:25.326340+00:00",
+  "manifest_sha256": "ed4661894e814c9c56f3e5a2375d7da450f474fab84c807e1f1c313a9e435aa9",
+  "trainer_sha256": "417baff2626b7ae4f00be0c2f923719b026cfbc9cef9ddcdbc35a611b454adec",
+  "environment": {
+    "python": "3.13.16",
+    "tensorflow": "2.21.0",
+    "h5py": "3.14.0",
+    "keras": "3.13.2",
+    "numpy": "2.4.6",
+    "platform": "Linux-6.6.159+-x86_64-with-glibc2.39",
+    "gpu_devices": [
+      {
+        "compute_capability": [
+          7,
+          5
+        ],
+        "device_name": "Tesla T4"
+      }
+    ],
+    "tensorflow_build": {
+      "cpu_compiler": "clang",
+      "cuda_compute_capabilities": [
+        "sm_60",
+        "sm_70",
+        "sm_80",
+        "sm_89",
+        "compute_90"
+      ],
+      "cuda_version": "12.5.1",
+      "cudnn_version": "9",
+      "is_cuda_build": true,
+      "is_rocm_build": false,
+      "is_tensorrt_build": false
+    }
+  },
+  "training": {
+    "batch_size": 64,
+    "epochs": 5,
+    "initialization": "imagenet",
+    "input_scaling": "minus_one_to_one",
+    "learning_rate": 0.001,
+    "seed": 20261111,
+    "target_sensitivity": 0.95
+  },
+  "batch_order": "shuffle contiguous batches then rows within each batch using SeedSequence([seed, epoch])",
+  "checkpoint_selection": "minimum validation binary cross entropy, earliest epoch breaks ties",
+  "initial_weights_sha256": "40519dd8e64eada99889d0bfe544ab394517a7e8b25b66ceaa98a56353b96b05",
+  "finished_utc": "2026-11-11T17:43:59.215982+00:00"
+}

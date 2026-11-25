@@ -1,0 +1,320 @@
+{
+  "threshold": 0.1767316311597824,
+  "cohorts": {
+    "PCam test": {
+      "rows": 32734,
+      "pooled": {
+        "auc": 0.8859603653392273,
+        "sensitivity": 0.8982501223690651,
+        "specificity": 0.6453935326418548
+      },
+      "equal_slide": {
+        "auc": {
+          "value": 0.9218997836287063,
+          "defined_slides": 49
+        },
+        "sensitivity": {
+          "value": 0.9164731419032048,
+          "defined_slides": 49
+        },
+        "specificity": {
+          "value": 0.6557522935508894,
+          "defined_slides": 129
+        }
+      },
+      "leave_one_slide_out_range": {
+        "auc": [
+          0.8835176127545795,
+          0.8942167503789981
+        ],
+        "sensitivity": [
+          0.8948633603238867,
+          0.9113747383112352
+        ],
+        "specificity": [
+          0.643199410246959,
+          0.6490719615218598
+        ]
+      },
+      "calibration": {
+        "brier": 0.14364624567254672,
+        "positive_score_ece_10_bins": 0.061011798731524014
+      }
+    },
+    "WILDS pooled": {
+      "rows": 241062,
+      "pooled": {
+        "auc": 0.8404774030490547,
+        "sensitivity": 0.7567845616480408,
+        "specificity": 0.7383245803984038
+      },
+      "equal_slide": {
+        "auc": {
+          "value": 0.773531516359528,
+          "defined_slides": 30
+        },
+        "sensitivity": {
+          "value": 0.5383069095898457,
+          "defined_slides": 30
+        },
+        "specificity": {
+          "value": 0.8221055328965967,
+          "defined_slides": 30
+        }
+      },
+      "leave_one_slide_out_range": {
+        "auc": [
+          0.8214606557776819,
+          0.8529293427132447
+        ],
+        "sensitivity": [
+          0.7186565411414703,
+          0.7726606273236634
+        ],
+        "specificity": [
+          0.7297547072033166,
+          0.7631532235160465
+        ]
+      },
+      "calibration": {
+        "brier": 0.19403777360785,
+        "positive_score_ece_10_bins": 0.142145007273612
+      }
+    },
+    "WILDS 0": {
+      "rows": 59436,
+      "pooled": {
+        "auc": 0.9137526093190838,
+        "sensitivity": 0.7131031697960832,
+        "specificity": 0.9268120331112457
+      },
+      "equal_slide": {
+        "auc": {
+          "value": 0.778314029096921,
+          "defined_slides": 10
+        },
+        "sensitivity": {
+          "value": 0.461322462984298,
+          "defined_slides": 10
+        },
+        "specificity": {
+          "value": 0.9291360873878874,
+          "defined_slides": 10
+        }
+      },
+      "leave_one_slide_out_range": {
+        "auc": [
+          0.8713527577927038,
+          0.930886610813568
+        ],
+        "sensitivity": [
+          0.582869529556506,
+          0.7712001522794327
+        ],
+        "specificity": [
+          0.9229382785276565,
+          0.9340708794299644
+        ]
+      },
+      "calibration": {
+        "brier": 0.18325869404644848,
+        "positive_score_ece_10_bins": 0.20032167473702972
+      },
+      "slide_cluster": {
+        "clusters": 10,
+        "valid_draws": 2000,
+        "percentile_95": {
+          "auc": [
+            0.8340805319635838,
+            0.9548708258996075
+          ],
+          "sensitivity": [
+            0.5168159887744399,
+            0.8452696530371829
+          ],
+          "specificity": [
+            0.9086429508530044,
+            0.9433063872888554
+          ]
+        }
+      },
+      "case_group_cluster": {
+        "clusters": 7,
+        "valid_draws": 2000,
+        "percentile_95": {
+          "auc": [
+            0.8393042429540923,
+            0.9620132446091207
+          ],
+          "sensitivity": [
+            0.5222897298880024,
+            0.8610811012181947
+          ],
+          "specificity": [
+            0.9190430930702307,
+            0.9406245688267488
+          ]
+        }
+      }
+    },
+    "WILDS 1": {
+      "rows": 34904,
+      "pooled": {
+        "auc": 0.8892479501353479,
+        "sensitivity": 0.6594659637863856,
+        "specificity": 0.9133050653220262
+      },
+      "equal_slide": {
+        "auc": {
+          "value": 0.7640804238649704,
+          "defined_slides": 10
+        },
+        "sensitivity": {
+          "value": 0.3923547869874659,
+          "defined_slides": 10
+        },
+        "specificity": {
+          "value": 0.9038392615049066,
+          "defined_slides": 10
+        }
+      },
+      "leave_one_slide_out_range": {
+        "auc": [
+          0.872939026601692,
+          0.8989062905798528
+        ],
+        "sensitivity": [
+          0.5837700254529121,
+          0.7046253338956839
+        ],
+        "specificity": [
+          0.9020202716679308,
+          0.925550527903469
+        ]
+      },
+      "calibration": {
+        "brier": 0.2093392294548904,
+        "positive_score_ece_10_bins": 0.21901188556087303
+      },
+      "slide_cluster": {
+        "clusters": 10,
+        "valid_draws": 2000,
+        "percentile_95": {
+          "auc": [
+            0.7869531762376148,
+            0.9283349854522912
+          ],
+          "sensitivity": [
+            0.3879406438343093,
+            0.811625786855949
+          ],
+          "specificity": [
+            0.8751638754628881,
+            0.9427671544913829
+          ]
+        }
+      },
+      "case_group_cluster": {
+        "clusters": 8,
+        "valid_draws": 2000,
+        "percentile_95": {
+          "auc": [
+            0.8058339143162215,
+            0.9375957559487167
+          ],
+          "sensitivity": [
+            0.4166648278905561,
+            0.8319075552682051
+          ],
+          "specificity": [
+            0.8678240594623046,
+            0.9422943477038804
+          ]
+        }
+      }
+    },
+    "WILDS 4": {
+      "rows": 146722,
+      "pooled": {
+        "auc": 0.8115731478040245,
+        "sensitivity": 0.7976308937991576,
+        "specificity": 0.6203432341434822
+      },
+      "equal_slide": {
+        "auc": {
+          "value": 0.7782000961166926,
+          "defined_slides": 10
+        },
+        "sensitivity": {
+          "value": 0.761243478797773,
+          "defined_slides": 10
+        },
+        "specificity": {
+          "value": 0.6333412497969964,
+          "defined_slides": 10
+        }
+      },
+      "leave_one_slide_out_range": {
+        "auc": [
+          0.7790291209534268,
+          0.8320702389087331
+        ],
+        "sensitivity": [
+          0.767610082759492,
+          0.8282204948673827
+        ],
+        "specificity": [
+          0.5986654965805241,
+          0.6488962169094074
+        ]
+      },
+      "calibration": {
+        "brier": 0.19476420425851157,
+        "positive_score_ece_10_bins": 0.11780502063216129
+      },
+      "slide_cluster": {
+        "clusters": 10,
+        "valid_draws": 2000,
+        "percentile_95": {
+          "auc": [
+            0.5570070927845483,
+            0.9759164946887295
+          ],
+          "sensitivity": [
+            0.47233875917705637,
+            0.9820863922146479
+          ],
+          "specificity": [
+            0.5295598627216174,
+            0.7096956366197605
+          ]
+        }
+      },
+      "case_group_cluster": {
+        "clusters": 9,
+        "valid_draws": 2000,
+        "percentile_95": {
+          "auc": [
+            0.5499079456611622,
+            0.9770901449552384
+          ],
+          "sensitivity": [
+            0.47054163412007455,
+            0.9823400621908177
+          ],
+          "specificity": [
+            0.5250686372469622,
+            0.7255726362857807
+          ]
+        }
+      }
+    },
+    "PCam validation": {
+      "rows": 32768,
+      "calibration": {
+        "brier": 0.11343082722419057,
+        "positive_score_ece_10_bins": 0.027675937916958982
+      }
+    }
+  }
+}

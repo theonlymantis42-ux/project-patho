@@ -1,0 +1,9 @@
+{
+  "revision": "d784d5344ba6c967f83f9f3d9b2f1e2a4d6eb78f",
+  "pilot_ids": 4000,
+  "matched_ids": 4000,
+  "scanned_metadata_rows": 44527,
+  "conflicting_saved_labels": 506,
+  "pilot_label_conflicts_resolved": false,
+  "final_evaluation_allowed": false
+}

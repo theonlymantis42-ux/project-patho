@@ -1,0 +1,23 @@
+Source_Index,Actual_Label,Actual_Condition,Cancer_Probability,Predicted_Label,AI_Prediction,Prediction_Confidence,Correct,Error_Type
+47942,1,Cancer,0.001612831,0,Healthy,0.99838716,False,False Negative
+47841,1,Cancer,0.0061784713,0,Healthy,0.9938215,False,False Negative
+47705,1,Cancer,0.03272427,0,Healthy,0.96727574,False,False Negative
+47676,1,Cancer,0.03807798,0,Healthy,0.96192205,False,False Negative
+47777,1,Cancer,0.04411619,0,Healthy,0.9558838,False,False Negative
+48035,1,Cancer,0.04743811,0,Healthy,0.9525619,False,False Negative
+47212,1,Cancer,0.06423876,0,Healthy,0.9357612,False,False Negative
+47339,1,Cancer,0.109358236,0,Healthy,0.89064175,False,False Negative
+47241,1,Cancer,0.11329246,0,Healthy,0.88670754,False,False Negative
+47757,1,Cancer,0.15597044,0,Healthy,0.84402955,False,False Negative
+47449,1,Cancer,0.21950229,0,Healthy,0.7804977,False,False Negative
+47450,1,Cancer,0.22995128,0,Healthy,0.77004874,False,False Negative
+47967,1,Cancer,0.24366884,0,Healthy,0.75633115,False,False Negative
+47556,1,Cancer,0.26179764,0,Healthy,0.73820233,False,False Negative
+47520,1,Cancer,0.32600406,0,Healthy,0.673996,False,False Negative
+47703,1,Cancer,0.3325471,0,Healthy,0.66745293,False,False Negative
+47692,1,Cancer,0.3474793,0,Healthy,0.65252066,False,False Negative
+47879,1,Cancer,0.37638924,0,Healthy,0.62361073,False,False Negative
+47826,1,Cancer,0.42823997,0,Healthy,0.57176006,False,False Negative
+48033,1,Cancer,0.44004077,0,Healthy,0.55995923,False,False Negative
+47493,1,Cancer,0.45551977,0,Healthy,0.5444802,False,False Negative
+47492,1,Cancer,0.45743722,0,Healthy,0.5425628,False,False Negative

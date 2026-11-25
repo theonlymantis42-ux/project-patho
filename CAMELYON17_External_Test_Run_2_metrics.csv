@@ -1,0 +1,2 @@
+Dataset,Images,Accuracy,Precision,Sensitivity_Recall,Specificity,F1,ROC_AUC,True_Positive,True_Negative,False_Positive,False_Negative,Mean_Confidence,Correct_Mean_Confidence,Incorrect_Mean_Confidence,Brier_Score,ECE
+CAMELYON17_External_Test_Run_2,2000,0.8065,0.7299324831207802,0.973,0.64,0.8341191598799829,0.955668,973,640,360,27,0.9398119,0.9565166,0.8701869,0.16082160820293243,0.13331185993552214

@@ -1,0 +1,13 @@
+{
+  "source": "investigator clarification in this conversation, 24 October 2026",
+  "reported_batch_size_in_images": 10000,
+  "reported_nominal_partition": [
+    8000,
+    2000
+  ],
+  "reported_training_designated_images_approx": 220000,
+  "reported_test_designated_images_approx": 30000,
+  "test_designated_images_used_with_model_fit": true,
+  "independent_internal_benchmark": false,
+  "exact_unique_training_image_inventory_verified": false
+}
