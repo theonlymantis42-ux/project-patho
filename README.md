@@ -46,12 +46,6 @@ That result is useful partly because it shows why AUC alone is not enough: high 
 
 A separate center-coded evaluation and a second 2,000-image metrics file are also present. They are documented separately because their model/run records and supporting methods are not interchangeable. One newer run has conflicting input-scaling metadata; see [Results](docs/RESULTS.md).
 
-## Important limitations
-
-The older H5 model's development history includes use of PCam test-designated images in model fitting, so its PCam test results cannot be presented as an independent internal benchmark. The repository also contains a separate newer run whose manifest and run record disagree about whether inputs were scaled to [0, 1] or [-1, 1]. Some analysis scripts also refer to files that are not in a clean clone.
-
-Those issues are documented rather than glossed over. Until they are resolved, the stored results should be described as exploratory, not as final independent validation.
-
 ## Running the notebooks
 
 See [Reproduction guide](docs/REPRODUCING.md). The notebooks load a saved model from private Google Drive; they do not train it. Use only de-identified slides that you are authorized to process. The public CMU skin slide in the bounded notebook is for technical testing, not cancer-detection evaluation.
