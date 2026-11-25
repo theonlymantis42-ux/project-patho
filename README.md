@@ -17,6 +17,7 @@ The project is exploratory. It does not provide a validated diagnosis or a clini
 - [Results](docs/RESULTS.md) — reported metrics, with each run kept separate.
 - [Reproduction guide](docs/REPRODUCING.md) — how to run the Colab notebooks and what is still missing.
 - [Research status and next steps](docs/RESEARCH_STATUS.md) — unresolved issues and the work needed before stronger claims are justified.
+- [References](docs/REFERENCES.md) — original dataset, model, visualization, and reporting sources.
 
 ## What the current results say
 
