@@ -4,9 +4,9 @@ Project Patho has two related workflows. One evaluates patch-level classifiers. 
 
 ## 1. Patch-classification and evaluation
 
-The older checkpoint, \`my_cancer_model.h5\`, is described in the recovered source audit as a MobileNetV2-based patch classifier. The diagram shows the architecture recorded there; it is not a claim that every checkpoint in the repository has the same architecture.
+The older checkpoint, `my_cancer_model.h5`, is described in the recovered source audit as a MobileNetV2-based patch classifier. The diagram shows the architecture recorded there; it is not a claim that every checkpoint in the repository has the same architecture.
 
-\`\`\`mermaid
+```mermaid
 flowchart LR
     A["PCam patch<br/>96 × 96 RGB"] --> B["Convert uint8 to float32<br/>divide by 255"]
     B --> C["Frozen ImageNet<br/>MobileNetV2 backbone"]
@@ -15,17 +15,17 @@ flowchart LR
     E --> F["Dense 1 · sigmoid"]
     F --> G["Patch-level score"]
     G --> H["Metrics, calibration,<br/>and error analysis"]
-\`\`\`
+```
 
-The architecture above is reconstructed from \`source_audit.json\`. That audit also says the retained notebook contains a commented training call and that the historical training sequence could not be recovered completely. See [Data and model record](DATA_AND_MODEL.md).
+The architecture above is reconstructed from `source_audit.json`. That audit also says the retained notebook contains a commented training call and that the historical training sequence could not be recovered completely. See [Data and model record](DATA_AND_MODEL.md).
 
-A separate November 11, 2026 training record is associated with \`model.keras\` and a different manifest. Its manifest and \`run.json\` disagree about input scaling. Do not assume that this checkpoint is identical to the older H5 model or that its evaluation is fully reproducible until that disagreement is resolved.
+A separate November 11, 2026 training record is associated with `model.keras` and a different manifest. Its manifest and `run.json` disagree about input scaling. Do not assume that this checkpoint is identical to the older H5 model or that its evaluation is fully reproducible until that disagreement is resolved.
 
 ## 2. Whole-slide review
 
 The Colab notebooks load an existing H5 checkpoint. They do not train a model. The current whole-slide path is:
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     A["SVS / NDPI / pyramidal TIFF"] --> B["OpenSlide reads slide<br/>dimensions and MPP metadata"]
     B --> C["Map slide to the<br/>model's target pixel scale"]
@@ -37,7 +37,7 @@ flowchart TD
     G --> I["Optional Grad-CAM maps"]
     H --> J["Browser-based review report"]
     I --> J
-\`\`\`
+```
 
 The 96 × 96 context is centered on a 32 × 32 support. The support is the region to which the score is assigned. The filter uses brightness and color variation; it is not a trained tissue-segmentation model, and it can exclude real tissue. Skipped supports remain unscored.
 
