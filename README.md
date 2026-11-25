@@ -21,7 +21,7 @@ The project is exploratory. It does not provide a validated diagnosis or a clini
 
 ## Repository layout
 
-**model-generalization-testing/** contains the patch-classification experiments and Paper 1 records:
+[**Model Generalization Testing**](model-generalization-testing/) contains the patch-classification experiments and Paper 1 records:
 
 - **notebooks/** — the patch-level analysis notebook.
 - **manuscripts/** — the Paper 1 protocol draft and archived manuscript files.
@@ -30,13 +30,13 @@ The project is exploratory. It does not provide a validated diagnosis or a clini
 - **runs/2026-11-11/** — the separate November 11 training and evaluation record.
 - **provenance/** and **scripts/** — integrity records, model-history disclosures, and analysis code.
 
-**whole-slide-processing-model-testing/** contains the Paper 2 / whole-slide workflow:
+[**Whole-Slide Processing Model Testing**](whole-slide-processing-model-testing/) contains the Paper 2 / whole-slide workflow:
 
 - **notebooks/** — the standard review notebook, the Grad-CAM version, and the bounded Colab processing notebook.
 - **models/** — the older H5 checkpoint used by those notebooks.
 - **runs/** — a legacy patch-coordinate prediction table. Its original run manifest is not present in the repository.
 
-**project-notes/** holds a legacy run-log document whose contents have not been assigned to either experiment. **docs/** contains the project-wide documentation.
+[**project-notes/**](project-notes/) holds a legacy run-log document whose contents have not been assigned to either experiment. [**docs/**](docs/) contains the project-wide documentation.
 
 ## What the current results say
 
